@@ -1,6 +1,6 @@
 # meeting-intent-eval
 
-A small Prime Intellect verifiers environment that tests whether a model can pull the *real* action items out of a messy meeting transcript.
+A Prime Intellect verifiers environment that tests whether a model can pull the *real* action items out of a messy meeting transcript.
 
 The interesting result: Claude Opus 4.6 hits **pass@1 = 0.887** but fails one transcript on every single sample. The failed transcript is the only one where the commitment lives in dialogue ("I can pair with you" → "yeah" → "your zoom or mine?" → "yours" → "done") instead of in a single declarative sentence. See [REPORT.md](REPORT.md) for the full writeup.
 
