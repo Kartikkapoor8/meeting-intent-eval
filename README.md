@@ -26,10 +26,12 @@ Pass@k is computed with the unbiased estimator from the Codex paper.
 ## How to run it
 
 ```bash
-pip install verifiers anthropic datasets
+pip install verifiers
 export ANTHROPIC_API_KEY=sk-ant-...
 python3 run_eval.py
 ```
+
+Run from the repo root. `pip install verifiers` pulls in `anthropic` and `datasets` automatically.
 
 Defaults: Claude Opus 4.6, 64 samples per transcript, T=1.0, 8 concurrent calls, $18 budget cap. Override with env vars: `EVAL_MODEL`, `EVAL_N`, `EVAL_T`, `EVAL_CONCURRENCY`, `EVAL_BUDGET`. Limit to specific transcripts with `EVAL_ONLY=transcript_id_1,transcript_id_2`.
 

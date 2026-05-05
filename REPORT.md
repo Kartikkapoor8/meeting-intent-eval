@@ -1,4 +1,4 @@
-# Meeting Intent Eval — Results
+# Meeting Intent Eval Results
 
 **Model:** Claude Opus 4.6
 **Dataset:** 10 synthetic meeting transcripts, hand-authored
@@ -35,7 +35,7 @@ The one it misses:
 > Chen: yours.
 > Raj: done.
 
-No one ever says "I commit to pair with Chen at X time." The commitment lives in the back-and-forth: an offer with a hedge ("if you want"), an acceptance, a logistics swap, a closing word. The model reads "I can pair... if you want" as optional and stops there.
+No one says "I commit to X by Y." The commitment lives in the back-and-forth: hedged offer, acceptance, logistics swap, closing word. The model reads "I can pair... if you want" as optional and stops.
 
 This pattern is everywhere in real meetings. Most commitments do not arrive as clean declarative sentences. They emerge through dialogue.
 
@@ -51,9 +51,9 @@ That sentence has a real verb and a real timeframe but the action is contingent.
 
 The 88.7% pass@1 number understates the opportunity. Two reasons.
 
-**One.** The eng_standup failure is 100% reproducible. Sampling does not fix it. Prompting probably does not fix it either (the system prompt already explicitly tells the model to handle hedged language). This is the kind of behavior you only get from training on real dialogue.
+**One.** The eng_standup failure is 100% reproducible. Sampling does not fix it. Prompting probably does not either (the system prompt already tells the model to handle hedged language). This is the kind of thing you only get from training.
 
-**Two.** The dataset is biased toward easy cases. We hand-authored these transcripts and naturally drifted toward explicit declarations because they are easier to ground-truth. Real recorded meetings have multi-turn-confirmation patterns in nearly every transcript, not 1 in 10. We expect pass@1 on real data to be much lower.
+**Two.** The dataset is biased toward easy cases. We hand-authored these and drifted toward explicit declarations because they're easier to ground-truth. Real meetings have multi-turn-confirmation patterns in nearly every transcript, not 1 in 10. Pass@1 on real data should be much lower.
 
 The training opportunities, in priority order:
 1. Recognize commitments formed across multiple speakers (offer + accept + logistics).
@@ -62,8 +62,8 @@ The training opportunities, in priority order:
 
 ## What's in the repo
 
-- `environments/meeting_intent/` — verifiers env, ready to publish to the Hub
-- `run_eval.py` — async sampling against the Anthropic API
-- `rescore.py` — re-score saved samples without spending API budget
-- `results/raw_samples*.json` — all 640 model outputs for reproducibility
-- `results/final_aggregate.json` — the table above as JSON
+- `environments/meeting_intent/`: the verifiers env, ready to publish to the Hub.
+- `run_eval.py`: async sampling against the Anthropic API.
+- `rescore.py`: re-score saved samples without spending API budget.
+- `results/raw_samples*.json`: all 640 model outputs for reproducibility.
+- `results/final_aggregate.json`: the table above as JSON.
