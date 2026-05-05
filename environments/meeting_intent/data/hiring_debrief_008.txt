@@ -1,0 +1,85 @@
+[Hiring Debrief — Backend Eng Loop, Candidate Initials JC]
+Participants: Vik (Hiring Manager), Sara (Interviewer), Tom (Interviewer), Mei (Recruiter)
+Duration: ~14 min
+
+Vik: ok, hot takes. Thumbs up, thumbs down, thumbs sideways. Sara go.
+
+Sara: thumbs up. Strong system design, fluent in Go. The thing I keep going back and forth on is whether they're L4 or L5. Honestly leaning L4.
+
+Tom: yeah I had the same reaction. Code interview was clean. They were a little slow on the second problem but they recovered.
+
+Vik: Mei?
+
+Mei: from the recruiter screen, very enthusiastic, actively interviewing, has another offer they need to respond to by next Wednesday.
+
+Vik: oh. That's a clock.
+
+Mei: yeah.
+
+Vik: ok so, if we want to make an offer we need to do it soon. Where does the leveling land. Sara you were saying L4.
+
+Sara: I think L4, with a clear path to L5 in 12 to 18 months. They don't have the breadth yet for L5.
+
+Tom: agreed.
+
+Vik: ok. I'll write it up and send the leveling rec to comp by tomorrow so they can model the offer.
+
+Sara: cool.
+
+Vik: yeah, tomorrow.
+
+Mei: while you're doing that, do you want me to start drafting the offer letter so it's ready when comp comes back?
+
+Vik: yeah, can you?
+
+Mei: yeah I can.
+
+Vik: when do you think?
+
+Mei: depends on comp turnaround. I can have a draft ready basically as soon as I have numbers.
+
+Vik: ok.
+
+Sara: oh, I actually know someone who worked with JC at Volta two years ago. I could backchannel.
+
+Vik: yeah, would you?
+
+Sara: yeah I'll ping her tonight. Probably hear back tomorrow or Thursday.
+
+Vik: great.
+
+Tom: what about the other final, the one who came in last week, KP. We said no on them right?
+
+Vik: yeah. Mei have we sent rejection yet?
+
+Mei: not yet, I was waiting for this loop to wrap.
+
+Vik: ok well, can you send it out? Don't want to leave them hanging.
+
+Mei: yeah, I'll get it out. Probably tomorrow.
+
+Vik: tomorrow good?
+
+Mei: yeah tomorrow.
+
+Tom: while we're talking process, should we add a coding question for next time? The one we have is getting kind of stale.
+
+Vik: yeah we should. I don't know who.
+
+Tom: I could draft something at some point.
+
+Vik: yeah let me know if you want help.
+
+Sara: also we should reach out to that ML person, the one Tom met at the conference. Different role but worth a chat.
+
+Vik: hmm yeah maybe. Let me think about whether that role is open. Probably not this quarter.
+
+Sara: ok.
+
+Vik: ok summary. I send leveling rec to comp tomorrow, Mei sends KP rejection tomorrow, Sara backchannels with her contact tonight, Mei drafts offer letter once comp comes back. Let's regroup Friday.
+
+Sara: works.
+
+Mei: yep.
+
+Tom: peace.

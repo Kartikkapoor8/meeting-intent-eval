@@ -1,0 +1,35 @@
+{
+  "transcript_id": "design_crit_002",
+  "action_items": [
+    {
+      "owner": "Tom",
+      "task": "Pull step-level drop-off numbers (time on page, bounce points) from Mixpanel for the onboarding funnel and share with Sam.",
+      "due": "tomorrow EOD",
+      "evidence_quote": "I can pull the step-level drop-off numbers from Mixpanel, like time on page and where they bounce. Probably can have that for you tomorrow EOD."
+    },
+    {
+      "owner": "Sam",
+      "task": "Revise the step 2 onboarding mocks (and incorporate Tom's drop-off data + Lila's feedback); deliver v4.",
+      "due": "Tuesday",
+      "evidence_quote": "Let me revise the step two mocks based on Tom's data and your feedback, and I'll have a v4 ready by Tuesday."
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Adding inline tooltips to the integration tiles",
+      "why_not": "Sam said 'I'll keep that in mind for the revision but I'm not sure I'll do it for v4' — explicitly hedged."
+    },
+    {
+      "text": "Looping in marketing on the welcome copy",
+      "why_not": "Lila said 'I'll loop in marketing maybe. Let me see what their bandwidth looks like' — conditional, no commitment."
+    },
+    {
+      "text": "A/B testing the new flow before broad ship",
+      "why_not": "Acknowledged as needed but Sam said 'not a today problem' and Lila confirmed she's just flagging."
+    },
+    {
+      "text": "Tom investigating the mobile onboarding flow",
+      "why_not": "Tom said 'I might poke at the mobile flow at some point' — explicit hedge ('might', 'at some point'), Lila replied 'later'."
+    }
+  ]
+}

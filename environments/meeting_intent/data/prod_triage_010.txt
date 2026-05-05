@@ -1,0 +1,69 @@
+[Mid-Day Sync — Production Issue Triage]
+Participants: Yuki (Eng Lead), Raul (Eng), Min (Eng)
+Duration: ~9 min
+
+Yuki: ok the alerts page is on fire. Let's split it up.
+
+Raul: what's the worst one.
+
+Yuki: the API latency p99 spike. Started about an hour ago.
+
+Raul: that one's mine. I was poking at it already.
+
+Yuki: cool.
+
+Raul: I'll have something to share when?
+
+Yuki: before our 4pm.
+
+Raul: yep.
+
+Min: I can take the auth service one if nobody's on it.
+
+Yuki: nobody.
+
+Min: ok.
+
+Yuki: same timeline?
+
+Min: yeah probably.
+
+Yuki: cool.
+
+Yuki: there's also the queue depth thing on workers-east, but that one's been flaky for a week, I think it's fine to leave for now.
+
+Raul: yeah it's not actually paging anyone is it.
+
+Yuki: no, just noisy.
+
+Raul: leave it.
+
+Min: agreed.
+
+Yuki: oh and someone needs to update the status page about the latency thing. I'd do it but I'm in a customer call in two minutes.
+
+Raul: I can.
+
+Yuki: thanks.
+
+Raul: which template, the "we are investigating" one?
+
+Yuki: yeah that one.
+
+Raul: ok.
+
+Raul: posting now.
+
+Yuki: perfect.
+
+Min: do we need to loop in support proactively too?
+
+Yuki: hmm. Yeah probably. But not yet, let's wait until we know more.
+
+Raul: yeah.
+
+Yuki: ok. Back at 4.
+
+Raul: yep.
+
+Min: yep.

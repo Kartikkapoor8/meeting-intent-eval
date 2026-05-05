@@ -1,0 +1,26 @@
+{
+  "transcript_id": "brainstorm_no_commits_009",
+  "action_items": [],
+  "non_commitments": [
+    {
+      "text": "Spike on AI search feasibility",
+      "why_not": "Bea proposed it ('Maybe we do a small spike') hedged with 'Maybe' and 'But not as a Q4 commitment'. No owner."
+    },
+    {
+      "text": "Cam mocking up an AI search experience",
+      "why_not": "Cam said 'I could mock up... I keep meaning to anyway' and then 'yeah I'll think about it'. Explicit hedge, no commitment."
+    },
+    {
+      "text": "Bea pulling support ticket data on report builder",
+      "why_not": "Bea said 'I'll think about pulling some support ticket data, see if it's worth it. Maybe' and confirmed 'no promises'. Explicit non-commitment."
+    },
+    {
+      "text": "Cam redesigning the home dashboard",
+      "why_not": "Cam floated the idea, said 'I don't know if it's a Q4 thing'. Aiden replied 'probably not but also maybe'. No commitment."
+    },
+    {
+      "text": "Aiden writing up a Q4 list",
+      "why_not": "Aiden said 'I'll noodle on all this and we can pick it back up next week'. 'Noodle' is informal exploration, not a tracked deliverable. No specific deadline."
+    }
+  ]
+}

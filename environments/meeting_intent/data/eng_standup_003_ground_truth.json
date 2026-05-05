@@ -1,0 +1,31 @@
+{
+  "transcript_id": "eng_standup_003",
+  "action_items": [
+    {
+      "owner": "Raj",
+      "task": "Pair with Chen on the auth refresh-token 401 bug (suspected token-cache race) immediately after standup, on Raj's Zoom.",
+      "due": "today",
+      "evidence_quote": "I can pair with you on it after this if you want... Right after standup, your zoom or mine? ... cool ... done."
+    },
+    {
+      "owner": "Maddie",
+      "task": "Write the prod migration runbook (documenting the staging dry-run steps so anyone can run prod).",
+      "due": "Thursday",
+      "evidence_quote": "I'll have the runbook done by Thursday."
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Alex escalating with the data team about the schema export",
+      "why_not": "Alex said 'not yet, give them today. If still nothing tomorrow I'll yell.' — conditional on the data team not responding."
+    },
+    {
+      "text": "Adding a feature flag around the rate limiter rollout",
+      "why_not": "Alex said 'I'll think about whether we actually need one' — explicit hedge ('think about'), no decision."
+    },
+    {
+      "text": "Refactoring the request middleware",
+      "why_not": "Chen said 'we should probably refactor that someday', Maddie agreed 'someday' — explicit non-commitment."
+    }
+  ]
+}

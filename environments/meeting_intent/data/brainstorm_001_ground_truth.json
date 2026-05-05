@@ -1,0 +1,35 @@
+{
+  "transcript_id": "brainstorm_001",
+  "action_items": [
+    {
+      "owner": "Devon",
+      "task": "Build a spike/prototype of a new search ranking function (behind a feature flag) to test whether click-throughs improve.",
+      "due": "Friday",
+      "evidence_quote": "I could throw together a spike, like a rough version, just to see if the click-throughs even move. I can have something by Friday."
+    },
+    {
+      "owner": "Priya",
+      "task": "Send the updated filter panel mocks (with cleaned-up hover states) to Maya.",
+      "due": "Wednesday EOD",
+      "evidence_quote": "I can send them to you Wednesday end of day."
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Priya redoing the empty state design",
+      "why_not": "Priya said 'I might mock something up just for fun, no promises' — explicitly hedged, no commitment."
+    },
+    {
+      "text": "Devon investigating typeahead latency",
+      "why_not": "Deferred to backlog after the spike; no owner-bound deadline, Maya said 'let's not open that can today'."
+    },
+    {
+      "text": "Looping in Jen / support",
+      "why_not": "Maya explicitly said 'I'm not gonna commit to that today, I just want to remember it.'"
+    },
+    {
+      "text": "Pulling v1 filter usage metrics for a baseline",
+      "why_not": "No owner assigned ('I don't know who. We'll figure it out.'); Devon's reply 'yeah maybe' is not a commitment."
+    }
+  ]
+}

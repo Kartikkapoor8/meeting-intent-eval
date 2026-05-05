@@ -1,0 +1,81 @@
+[Brainstorm — Search Filters v2]
+Participants: Maya (PM), Devon (Eng), Priya (Design)
+Duration: ~15 min
+
+Maya: ok cool, are we recording? I think it's recording. Anyway. Hey. So, uh, I didn't really make an agenda for this one, I just wanted to like, talk through where we're at on the filter stuff before standup tomorrow eats it.
+
+Devon: yeah no worries. I had like half a coffee so we'll see how this goes.
+
+Priya: ha. same.
+
+Maya: ok so. The thing that's been bugging me is — when we shipped v1 nobody really used the "sort by relevance" toggle, right? Like the numbers were bad. And I keep thinking we just slapped it in the corner and called it done.
+
+Devon: I mean, the numbers were bad but I'm not sure it's the placement. I think the ranking itself was kind of garbage. Like if you searched for "invoice" you'd get a settings page above an actual invoice. So people clicked once, got nothing useful, and never touched it again.
+
+Priya: yeah I've heard that from like… two of the design partners? Maybe three. I should probably go back through my notes.
+
+Maya: mm. Ok so maybe the real thing is the ranking, not the UI. Which is annoying because we already have design cycles booked for the UI redesign.
+
+Priya: I mean the redesign isn't wasted, the current thing is also ugly.
+
+Devon: lol
+
+Priya: I'm allowed to say that, I made it.
+
+Maya: ok ok. So. Devon — like, at a high level, how hard would it be to just try a different ranking? Like even something dumb like, I don't know, weighting recency more.
+
+Devon: uhh. Probably not crazy. The scoring function is kind of one file. I could throw together a spike, like a rough version, just to see if the click-throughs even move. I can have something by Friday.
+
+Maya: oh that'd be great actually.
+
+Devon: yeah, Friday. I'll put it behind a flag so we don't have to be precious about it.
+
+Maya: perfect.
+
+Priya: while we're on it — do we want to also rethink the empty state? Like when filters return zero results, right now it just says "no results" and that's it. We should probably do something nicer there.
+
+Maya: yeah we should. I mean, eventually.
+
+Priya: I might mock something up just for fun, no promises.
+
+Maya: hah ok. Don't let me block you on it but also don't kill yourself.
+
+Devon: also — and this is kind of unrelated — but can we look at the typeahead latency at some point? It feels slower since the last release. Or maybe I'm imagining it.
+
+Maya: uh. Maybe? Let's not open that can today. Can you put it in the eng backlog and we'll look at it after the spike?
+
+Devon: yeah fine.
+
+Maya: ok and Priya — the updated mocks for the filter panel, are those, like, a thing I can show to Marcus? He keeps asking.
+
+Priya: oh — yeah, they're basically done, I just need to clean up the hover states. I can send them to you Wednesday end of day.
+
+Maya: amazing. Wednesday EOD, got it.
+
+Priya: yep.
+
+Devon: should we loop in someone from support on this? They probably hear about the bad ranking constantly.
+
+Maya: yeah we should probably talk to support at some point. I'll think about who. Maybe Jen?
+
+Priya: Jen's good.
+
+Maya: ok. I'm not gonna commit to that today, I just want to remember it.
+
+Devon: cool.
+
+Maya: oh — and the metrics dashboard. Someone should pull the v1 filter usage numbers so we have a baseline before the spike lands. I don't know who. We'll figure it out.
+
+Devon: yeah maybe.
+
+Priya: I have to drop in like two minutes fyi.
+
+Maya: ok we're basically done. So — Devon, spike by Friday. Priya, mocks Wednesday EOD. Everything else is, like, "we'll see."
+
+Devon: yep.
+
+Priya: yep. ok bye.
+
+Maya: bye!
+
+Devon: peace.

@@ -1,0 +1,968 @@
+{
+  "hiring_debrief_008": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel ping to contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 97
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling rec to comp for JC\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 99
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp for JC\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 98
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp for JC\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 98
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel ping to contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 97
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Vik\", \"task\": \"Write up and send leveling recommendation to comp\", \"due\": \"tomorrow\"}, {\"owner\": \"Mei\", \"task\": \"Send rejection to candidate KP\", \"due\": \"tomorrow\"}, {\"owner\": \"Sara\", \"task\": \"Backchannel with contact who worked with JC at Volta\", \"due\": \"tonight\"}]}",
+      "in_tok": 1078,
+      "out_tok": 96
+    }
+  ],
+  "pipeline_review_006": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Lin\", \"task\": \"Send Marco the multi-year pricing template\", \"due\": \"tomorrow (Wednesday)\"}, {\"owner\": \"Marco\", \"task\": \"Send updated quote to Acme\", \"due\": \"Friday\"}, {\"owner\": \"Dan\", \"task\": \"Complete Volt vendor security questionnaire and SOC 2 report\", \"due\": \"Friday\"}]}",
+      "in_tok": 1037,
+      "out_tok": 94
+    }
+  ],
+  "support_escalation_007": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 130
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 131
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including checking backup tooling for recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/recovery tooling\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery tooling\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set expectations with Helix for end-of-day update\", \"due\": \"today\"}, {\"owner\": \"Hana\", \"task\": \"Set up a call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the incident for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 162
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including verifying backup/recovery tooling\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set expectations with Helix for end-of-day update\", \"due\": \"today\"}, {\"owner\": \"Hana\", \"task\": \"Set up a call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the incident for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 163
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 130
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Reza\",\"task\":\"Pull import logs for Helix tenant and check for errors, including verifying backup recovery tooling\",\"due\":\"end of day today\"},{\"owner\":\"Hana\",\"task\":\"Set up call with Helix's CTO for tomorrow afternoon\",\"due\":\"tomorrow\"},{\"owner\":\"Reza\",\"task\":\"Write up a one-pager explanation of the issue for Hana to send to Helix procurement\",\"due\":\"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 111
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 133
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including checking backup tooling for recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including verifying backup/recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "```json\n{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including checking backup tooling for recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the issue for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}\n```",
+      "in_tok": 1091,
+      "out_tok": 135
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 131
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explaining the issue for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/recovery tooling\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set expectations with Helix for end-of-day update\", \"due\": \"today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 160
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Reza\",\"task\":\"Pull import logs for Helix tenant to identify errors and check backup tooling for recovery capability\",\"due\":\"end of day today\"},{\"owner\":\"Hana\",\"task\":\"Set up a call with Helix's CTO for tomorrow afternoon\",\"due\":\"tomorrow\"},{\"owner\":\"Reza\",\"task\":\"Write up a one-pager explanation of the issue for Hana to send to Helix procurement\",\"due\":\"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 111
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 127
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including checking backup tooling for recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 127
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 131
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/recovery tooling\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set expectations with Helix for end-of-day update\", \"due\": \"today\"}, {\"owner\": \"Hana\", \"task\": \"Set up a call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 163
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including checking backup tooling for recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery tooling\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 130
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 127
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant, check for errors and verify backup recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 125
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including checking backup tooling for recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 131
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Reza\",\"task\":\"Pull import logs for Helix tenant, check for errors, and verify backup recovery tooling\",\"due\":\"end of day today\"},{\"owner\":\"Hana\",\"task\":\"Set up call with Helix's CTO for tomorrow afternoon\",\"due\":\"tomorrow\"},{\"owner\":\"Reza\",\"task\":\"Write up a one-pager explanation of the incident for Hana to send to Helix procurement\",\"due\":\"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 110
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 131
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 131
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up a call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 134
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including checking backup tooling for recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including checking backup tooling for recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set expectations with Helix for end-of-day update\", \"due\": \"today\"}, {\"owner\": \"Hana\", \"task\": \"Set up a call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the incident for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 163
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery tooling\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set expectations with Helix for end-of-day update\", \"due\": \"today\"}, {\"owner\": \"Hana\", \"task\": \"Set up a call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the incident for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 162
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 130
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 133
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery tooling\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set expectations with Helix for end-of-day update\", \"due\": \"today\"}, {\"owner\": \"Hana\", \"task\": \"Set up a call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the incident for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 163
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and investigate missing records, including checking backup tooling for recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 130
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery tooling\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set expectations with Helix for end-of-day update\", \"due\": \"today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 160
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 133
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 127
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up a call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 134
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 131
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup/restore capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 128
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 127
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup recovery capability\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 129
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Reza\", \"task\": \"Pull import logs for Helix tenant and check for errors, including verifying backup tooling for potential data recovery\", \"due\": \"end of day today\"}, {\"owner\": \"Hana\", \"task\": \"Set up call with Helix's CTO for tomorrow afternoon\", \"due\": \"tomorrow afternoon\"}, {\"owner\": \"Reza\", \"task\": \"Write up a one-pager explanation of the investigation findings for Hana to send to Helix procurement\", \"due\": \"tomorrow afternoon\"}]}",
+      "in_tok": 1091,
+      "out_tok": 133
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "transcript_id": "exec_sync_005",
+  "action_items": [
+    {
+      "owner": "Brent",
+      "task": "Deliver an updated Q3 burn projection to Nadia (model redone with actuals through May), ahead of the board meeting.",
+      "due": "Friday",
+      "evidence_quote": "I can have the updated Q3 burn projection to you by Friday."
+    },
+    {
+      "owner": "Wes",
+      "task": "Draft a comp framework proposal (bands, leveling, using Pave benchmarks) for the board pre-read.",
+      "due": "Wednesday",
+      "evidence_quote": "Comp framework draft by next Wednesday. I'll use the Pave benchmarks."
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Hiring freeze conversation",
+      "why_not": "Nadia explicitly said 'I don't want to commit to that today. Let me sit with the numbers.' To be revisited after burn numbers."
+    },
+    {
+      "text": "Nadia talking to the board chair about platform strategy visibility",
+      "why_not": "Nadia said 'I'll figure out when' — no committed date, intent only."
+    },
+    {
+      "text": "Running a customer survey to validate the Atlas roadmap",
+      "why_not": "Wes proposed it ('maybe we run'), Nadia said 'yeah maybe', and Wes added 'I don't know yet [who would own]. I'll think about it.' — no owner, no commitment."
+    },
+    {
+      "text": "Brent responding to legal on the Series B docs",
+      "why_not": "Brent said 'uh. Soon. I'll ping them this week probably.' — 'probably' + vague 'soon' is not a tracked commitment with a specific deadline. Borderline trap to test the model."
+    },
+    {
+      "text": "Bigger conversation about whether Atlas is the strategy",
+      "why_not": "Both agreed 'not for today' — explicit deferral."
+    }
+  ]
+}

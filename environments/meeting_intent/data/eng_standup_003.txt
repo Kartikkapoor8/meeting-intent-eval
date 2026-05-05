@@ -1,0 +1,51 @@
+[Eng Standup — Platform Team]
+Participants: Raj, Chen, Maddie, Alex
+Duration: ~7 min
+
+Raj: ok let's keep this fast, I have another thing at the half hour. Chen, you go.
+
+Chen: yesterday I was on the auth bug, the one where the refresh token randomly 401s. I found a repro but I haven't found the root cause. I'm kind of stuck — I think it might be a race in the token cache but I'm not sure.
+
+Raj: I can pair with you on it after this if you want, I've been in that code recently.
+
+Chen: yeah, that'd help. Thanks.
+
+Raj: cool. Right after standup, your zoom or mine?
+
+Chen: yours.
+
+Raj: done.
+
+Maddie: my turn. Yesterday I finished the staging migration dry-run, it worked. Today I'm writing it up so anyone can do the prod one without me. I'll have the runbook done by Thursday.
+
+Alex: nice.
+
+Maddie: yeah it's mostly just documenting what I did. Thursday for sure.
+
+Raj: great. Alex?
+
+Alex: I'm still blocked on the data team for the schema export. I pinged them yesterday, no answer.
+
+Raj: ugh. Want me to escalate?
+
+Alex: not yet, give them today. If still nothing tomorrow I'll yell.
+
+Raj: ok.
+
+Alex: also — random thought — should we add a feature flag around the new rate limiter rollout? I'll think about whether we actually need one and let you know.
+
+Raj: yeah think about it, no rush.
+
+Chen: oh and we should probably refactor the request middleware someday, it's a mess.
+
+Maddie: ha. yes. Someday.
+
+Raj: ok parking lot. Anything else?
+
+Alex: nope.
+
+Maddie: nope.
+
+Chen: nope.
+
+Raj: cool. Chen, see you in five. Bye.

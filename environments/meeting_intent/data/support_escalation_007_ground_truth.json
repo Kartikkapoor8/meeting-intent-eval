@@ -1,0 +1,37 @@
+{
+  "transcript_id": "support_escalation_007",
+  "action_items": [
+    {
+      "owner": "Reza",
+      "task": "Investigate Helix's bulk import: pull the tenant's import logs, look for errors, and check the backup tooling for 200-record restore granularity.",
+      "due": "today",
+      "evidence_quote": "Theo: Reza, you have time today? Reza: yeah I can take a look... I'll dig in this afternoon. + Reza: I'll check the backup tooling tonight or tomorrow morning. Theo: do that as part of looking into it. Reza: yeah I'll bundle it in."
+    },
+    {
+      "owner": "Hana",
+      "task": "Schedule a call with Helix's CTO for tomorrow afternoon (with Theo and Reza available).",
+      "due": "tomorrow",
+      "evidence_quote": "Theo: we should probably get Helix's CTO on the phone tomorrow. Hana: agreed. I'll set up a call. Probably afternoon, depending on his calendar."
+    },
+    {
+      "owner": "Reza",
+      "task": "Write a one-pager explanation of what happened (for Hana to send to Helix's procurement).",
+      "due": "tomorrow",
+      "evidence_quote": "Theo: Reza, after you've finished the investigation, can you write up a one-pager for Hana? Reza: yeah I can do that. I'll have it for you tomorrow afternoon, after the call."
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Hana sending Helix an update tomorrow",
+      "why_not": "Hana said she'd 'set expectations for end of day and update them tomorrow if needed' — conditional on Reza's findings, no fixed deliverable."
+    },
+    {
+      "text": "Theo drafting customer-communication language with Hana",
+      "why_not": "Theo offered ('happy to draft... if you want'), Hana hedged ('I might take you up on that. Let me see what Reza finds first'). Conditional and unconfirmed."
+    },
+    {
+      "text": "Hana checking in with Reza at 4pm",
+      "why_not": "Internal sync touchpoint, not a tracked deliverable. Reza only said 'works'."
+    }
+  ]
+}

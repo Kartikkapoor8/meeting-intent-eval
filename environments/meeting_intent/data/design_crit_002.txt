@@ -1,0 +1,73 @@
+[Design Critique — Onboarding Flow v3]
+Participants: Sam (Design), Lila (PM), Tom (Eng Lead)
+Duration: ~12 min
+
+Lila: ok so Sam's going to walk us through the onboarding redesign and we'll just react. Sam, the floor is yours.
+
+Sam: cool. Sharing my screen. Ok so this is step one — it's basically what we have today, just cleaned up. The actual change starts on step two, which is — here. So instead of asking for the workspace name and the team size on the same screen, I split them.
+
+Tom: why?
+
+Sam: uh, because the Mixpanel funnel showed like a big drop on that screen and the hypothesis was it felt like too much.
+
+Tom: hmm. Do we actually know that's why people drop, or is that a guess.
+
+Sam: it's… kind of a guess. Honest answer.
+
+Lila: I mean it's a reasonable guess. But yeah we don't have hard data.
+
+Tom: I can pull the step-level drop-off numbers from Mixpanel, like time on page and where they bounce. Probably can have that for you tomorrow EOD.
+
+Sam: oh that'd actually be huge. yes please.
+
+Tom: yeah no problem, I'll grab it tomorrow.
+
+Lila: ok continuing — Sam what's step three doing.
+
+Sam: step three is the integrations picker. I made the tiles bigger and added little descriptions because people kept skipping it.
+
+Lila: I like the descriptions. The tiles feel a little — I don't know — heavy?
+
+Sam: heavy how
+
+Lila: like, visually. It's a lot.
+
+Tom: agree
+
+Sam: ok fair. I can tighten that. Honestly the whole step two and three could probably go through another pass. Let me revise the step two mocks based on Tom's data and your feedback, and I'll have a v4 ready by Tuesday.
+
+Lila: Tuesday works.
+
+Sam: Tuesday it is.
+
+Lila: oh — what about inline tooltips on the integration tiles? Like, hover and you get more info instead of all that text on the tile.
+
+Sam: oh. Yeah, we could try inline tooltips. I'll keep that in mind for the revision but I'm not sure I'll do it for v4.
+
+Lila: yeah no rush.
+
+Tom: also — should marketing weigh in on the copy? Like the welcome message feels very… product-voice.
+
+Lila: ehhh. I'll loop in marketing maybe. Let me see what their bandwidth looks like, I don't want to block us.
+
+Sam: yeah agreed.
+
+Lila: oh one more — someone should A/B test the new flow against the old one before we ship it broadly. We learned that the hard way last time.
+
+Tom: yeah we should.
+
+Sam: agreed but I don't think that's a today problem.
+
+Lila: no, agreed, just flagging.
+
+Tom: also I might poke at the mobile flow at some point, it's a separate beast and I think it's even worse than desktop.
+
+Lila: lol yeah it's bad. But — later.
+
+Tom: yep.
+
+Sam: ok so to recap — Tom pulls drop-off numbers tomorrow EOD, I revise step two mocks for Tuesday. Everything else is parking lot.
+
+Lila: yes. Good crit. Thanks Sam.
+
+Sam: thanks y'all.

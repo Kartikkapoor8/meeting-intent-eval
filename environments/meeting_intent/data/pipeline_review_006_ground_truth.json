@@ -1,0 +1,49 @@
+{
+  "transcript_id": "pipeline_review_006",
+  "action_items": [
+    {
+      "owner": "Lin",
+      "task": "Send Marco the pre-approved multi-year pricing template (so he can plug in Acme's numbers).",
+      "due": "tomorrow",
+      "evidence_quote": "Marco: yeah send that over. Lin: yeah I'll get it to you tomorrow."
+    },
+    {
+      "owner": "Marco",
+      "task": "Build the new Acme quote using Lin's template and send it to Acme.",
+      "due": "Friday",
+      "evidence_quote": "Marco: I can put together the new quote and get it to Acme, I'd say by Friday. Tessa: Friday works. Marco: yeah, Friday."
+    },
+    {
+      "owner": "Dan",
+      "task": "Complete Volt's vendor security questionnaire (with SOC 2 report) and return it to procurement.",
+      "due": "Friday",
+      "evidence_quote": "Dan: I can have it back to them by end of week. Tessa: end of week meaning Friday? Dan: Friday yeah."
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Marco resending the pricing email to Acme procurement today",
+      "why_not": "Marco said 'yeah I'll bump it' as a routine follow-up to a one-line suggestion. No specific deliverable scope or tracked deadline. Borderline trap to test."
+    },
+    {
+      "text": "Marco chasing legal on the multi-year discount sign-off",
+      "why_not": "Marco mentioned it 'got buried' but no commitment was made to follow up. Lin's template offer made it moot."
+    },
+    {
+      "text": "Lin following up with Volt's eng lead about SSO",
+      "why_not": "Lin said 'I might follow up with him about it' and 'I'll see what he asks first' — explicitly hedged."
+    },
+    {
+      "text": "Marco reaching out to Acme's CFO directly",
+      "why_not": "Tessa said 'let's not until the procurement thing closes' — explicit no."
+    },
+    {
+      "text": "Lin sending Drift the renewal notice",
+      "why_not": "Lin said 'at some point', Tessa said 'no rush'. Vague timing, no commitment."
+    },
+    {
+      "text": "Dan restructuring how the team does security reviews",
+      "why_not": "Dan and Tessa both said 'parking lot' — explicit deferral."
+    }
+  ]
+}

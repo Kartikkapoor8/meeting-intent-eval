@@ -1,0 +1,41 @@
+{
+  "transcript_id": "customer_call_004",
+  "action_items": [
+    {
+      "owner": "Jess",
+      "task": "Send the SOC 2 report to Mark / Northwind security team.",
+      "due": "today EOD",
+      "evidence_quote": "I'll send the SOC 2 report to you by end of day today."
+    },
+    {
+      "owner": "Mark",
+      "task": "Send Northwind's security questionnaire to Jess for completion.",
+      "due": "Friday",
+      "evidence_quote": "I'll have it over to you by Friday for sure."
+    },
+    {
+      "owner": "Erin",
+      "task": "Spin up a sandbox environment for Northwind's team to test the new ingestion API; send credentials to Mark's eng lead.",
+      "due": "Monday",
+      "evidence_quote": "yeah I can have a sandbox ready for your team by Monday. I'll send the credentials to your eng lead."
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Prioritizing SSO with Okta on the roadmap",
+      "why_not": "Jess said 'I'll see what our roadmap team thinks... I can't promise timing.' — explicit hedge, the action ('see what they think') is too vague to be a tracked commitment with a date."
+    },
+    {
+      "text": "Northwind increasing seat count next quarter",
+      "why_not": "Mark said 'we might increase seats next quarter, depending on how Q2 closes' — explicit hedge ('might', 'depending')."
+    },
+    {
+      "text": "Multi-region rollout for Northwind in H2",
+      "why_not": "Mark explicitly said 'we'll consider the multi-region thing... Not committing yet.'"
+    },
+    {
+      "text": "Scheduling a follow-up call in ~a month",
+      "why_not": "No concrete date; Mark said 'a month-ish' and is delegating to his assistant — not a tracked commitment with a deadline."
+    }
+  ]
+}

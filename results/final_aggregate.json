@@ -1,0 +1,116 @@
+{
+  "model": "claude-opus-4-6",
+  "n_samples_per_transcript": 64,
+  "temperature": 1.0,
+  "pass_threshold": 0.99,
+  "n_transcripts": 10,
+  "aggregate": {
+    "pass_at_1": 0.8875,
+    "pass_at_8": 0.8999999999774071,
+    "pass_at_32": 0.9,
+    "mean_f1": 0.9648809523809524,
+    "format_compliance": 1.0
+  },
+  "per_transcript": [
+    {
+      "transcript_id": "brainstorm_001",
+      "n": 64,
+      "n_passing": 64,
+      "pass_at_1": 1.0,
+      "pass_at_8": 1.0,
+      "pass_at_32": 1.0,
+      "mean_f1": 1.0,
+      "format_compliance": 1.0
+    },
+    {
+      "transcript_id": "brainstorm_no_commits_009",
+      "n": 64,
+      "n_passing": 64,
+      "pass_at_1": 1.0,
+      "pass_at_8": 1.0,
+      "pass_at_32": 1.0,
+      "mean_f1": 1.0,
+      "format_compliance": 1.0
+    },
+    {
+      "transcript_id": "customer_call_004",
+      "n": 64,
+      "n_passing": 64,
+      "pass_at_1": 1.0,
+      "pass_at_8": 1.0,
+      "pass_at_32": 1.0,
+      "mean_f1": 1.0,
+      "format_compliance": 1.0
+    },
+    {
+      "transcript_id": "design_crit_002",
+      "n": 64,
+      "n_passing": 64,
+      "pass_at_1": 1.0,
+      "pass_at_8": 1.0,
+      "pass_at_32": 1.0,
+      "mean_f1": 1.0,
+      "format_compliance": 1.0
+    },
+    {
+      "transcript_id": "eng_standup_003",
+      "n": 64,
+      "n_passing": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": 0.0,
+      "pass_at_32": 0.0,
+      "mean_f1": 0.6666666666666664,
+      "format_compliance": 1.0
+    },
+    {
+      "transcript_id": "exec_sync_005",
+      "n": 64,
+      "n_passing": 64,
+      "pass_at_1": 1.0,
+      "pass_at_8": 1.0,
+      "pass_at_32": 1.0,
+      "mean_f1": 1.0,
+      "format_compliance": 1.0
+    },
+    {
+      "transcript_id": "hiring_debrief_008",
+      "n": 64,
+      "n_passing": 64,
+      "pass_at_1": 1.0,
+      "pass_at_8": 1.0,
+      "pass_at_32": 1.0,
+      "mean_f1": 1.0,
+      "format_compliance": 1.0
+    },
+    {
+      "transcript_id": "pipeline_review_006",
+      "n": 64,
+      "n_passing": 64,
+      "pass_at_1": 1.0,
+      "pass_at_8": 1.0,
+      "pass_at_32": 1.0,
+      "mean_f1": 1.0,
+      "format_compliance": 1.0
+    },
+    {
+      "transcript_id": "prod_triage_010",
+      "n": 64,
+      "n_passing": 64,
+      "pass_at_1": 1.0,
+      "pass_at_8": 1.0,
+      "pass_at_32": 1.0,
+      "mean_f1": 1.0,
+      "format_compliance": 1.0
+    },
+    {
+      "transcript_id": "support_escalation_007",
+      "n": 64,
+      "n_passing": 56,
+      "pass_at_1": 0.875,
+      "pass_at_8": 0.9999999997740708,
+      "pass_at_32": 1.0,
+      "mean_f1": 0.982142857142857,
+      "format_compliance": 1.0
+    }
+  ]
+}

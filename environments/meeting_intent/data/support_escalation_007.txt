@@ -1,0 +1,73 @@
+[Customer Escalation — Helix Bulk Import Issue]
+Participants: Hana (CSM), Theo (Eng Lead), Reza (Eng)
+Duration: ~14 min
+
+Hana: thanks for jumping. So Helix did a bulk import last night, like 12k records, and they're saying maybe 200 of them are missing. I don't have detail beyond that, just a panicked email.
+
+Theo: missing how, like, didn't import, or imported and then disappeared?
+
+Hana: I don't know. They're not super technical, the email just said "data is missing."
+
+Theo: ok. We need to look at the actual logs before we know what we're dealing with. Reza, you have time today?
+
+Reza: yeah I can take a look. I have something at 2 but otherwise free.
+
+Theo: cool. Pull the import logs for their tenant, see if there were errors.
+
+Reza: yeah, I'll dig in this afternoon.
+
+Theo: great.
+
+Hana: how soon will I have something to tell them?
+
+Reza: uh. Depends on what I find. If it's clearly an error in our pipeline, I can probably tell you by end of day. If it's something weirder, maybe tomorrow.
+
+Hana: ok I'll set expectations for end of day and update them tomorrow if needed.
+
+Reza: yeah.
+
+Theo: also, and this is more for Hana, we should probably get Helix's CTO on the phone tomorrow if the answer isn't clean. I don't want to find out on Friday that they've been quietly furious all week.
+
+Hana: agreed. I'll set up a call. Probably afternoon, depending on his calendar.
+
+Theo: cool.
+
+Hana: what time tomorrow works for you both, in case I need you?
+
+Theo: I'm pretty open after 1. Reza?
+
+Reza: same, after 11 for me.
+
+Hana: ok I'll find a slot.
+
+Theo: oh, also, if we did lose data, what's the recovery story. Do we have backups granular enough to restore 200 records?
+
+Reza: I think so but I'd want to verify before promising that. I'll check the backup tooling tonight or tomorrow morning.
+
+Theo: ok do that as part of looking into it.
+
+Reza: yeah I'll bundle it in.
+
+Hana: and if it turns out to be on Helix's side, like a malformed CSV, we still need to communicate it carefully, right?
+
+Theo: yeah. That's a Hana problem more than a me problem but happy to draft language with you if you want.
+
+Hana: I might take you up on that. Let me see what Reza finds first.
+
+Theo: yep.
+
+Hana: oh one more thing, once we know what happened, can someone draft a written explanation I can send to Helix's procurement? They love documentation.
+
+Theo: yeah. Reza, after you've finished the investigation, can you write up a one-pager for Hana?
+
+Reza: yeah I can do that. I'll have it for you tomorrow afternoon, after the call.
+
+Hana: perfect.
+
+Hana: ok. I think we're good for now. Reza I'll check in with you around 4?
+
+Reza: works.
+
+Hana: cool. Thanks both.
+
+Theo: yep, talk later.

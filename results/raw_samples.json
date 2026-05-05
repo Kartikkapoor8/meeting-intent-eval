@@ -1,0 +1,1612 @@
+{
+  "brainstorm_001": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build spike with alternative ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 84
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 84
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (weight recency more, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Clean up hover states on filter panel mocks and send to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 83
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (recency-weighted scoring, behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 78
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (rough version with different scoring, behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 78
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (rough version with different scoring, behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 79
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (rough version with different scoring, behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 79
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (rough version with different scoring, behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 79
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (recency-weighted scoring, behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 78
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a spike with alternative ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a spike with alternative ranking (e.g. weighting recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 86
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Clean up hover states and send updated filter panel mocks to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 82
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a rough spike with updated ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 86
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a spike with alternative ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a spike with alternative ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (recency-weighted scoring, behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 79
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a spike with alternative ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build rough ranking spike (weight recency more) behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 79
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build rough spike for alternative search ranking (behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 77
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (recency-weighted scoring behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 77
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build rough ranking spike (recency-weighted scoring) behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 80
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (weight recency more, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 84
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test if click-throughs improve\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (rough version with different scoring, behind a feature flag)\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 78
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (weight recency more, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a rough spike with alternative ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 86
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a spike with alternative ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (weight recency more, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 84
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a rough spike with alternative ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 86
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (recency-weighted scoring behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build ranking spike (reweight scoring function, behind a feature flag) to test click-through impact\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday end of day\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Devon\", \"task\": \"Build a rough spike with alternative ranking (e.g. weight recency more), behind a feature flag\", \"due\": \"Friday\"}, {\"owner\": \"Priya\", \"task\": \"Send cleaned-up filter panel mocks (with hover states) to Maya\", \"due\": \"Wednesday EOD\"}]}",
+      "in_tok": 1273,
+      "out_tok": 85
+    }
+  ],
+  "customer_call_004": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Jess\", \"task\": \"Send SOC 2 report to Mark\", \"due\": \"end of day today\"}, {\"owner\": \"Mark\", \"task\": \"Send security questionnaire to Jess\", \"due\": \"Friday\"}, {\"owner\": \"Erin\", \"task\": \"Spin up sandbox environment and send credentials to Mark's eng lead\", \"due\": \"Monday\"}]}",
+      "in_tok": 1079,
+      "out_tok": 100
+    }
+  ],
+  "design_crit_002": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks based on Tom's data and feedback, deliver v4\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks based on Tom's data and feedback, deliver v4\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks based on Tom's data and feedback, deliver v4\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks based on Tom's data and feedback, deliver v4\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks based on Tom's data and feedback, deliver v4\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 (and step 3) onboarding mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step two and three mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 (and step 3) onboarding mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 96
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 onboarding mocks (v4) based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 95
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Tom\", \"task\": \"Pull step-level drop-off numbers from Mixpanel (time on page, bounce points)\", \"due\": \"tomorrow EOD\"}, {\"owner\": \"Sam\", \"task\": \"Revise step 2 and step 3 mocks into v4 based on Tom's data and feedback\", \"due\": \"Tuesday\"}]}",
+      "in_tok": 1065,
+      "out_tok": 92
+    }
+  ],
+  "eng_standup_003": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write the prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 35
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write the prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 35
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write the prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 35
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write the prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 35
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write the prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 35
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write the prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 35
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write the prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 35
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Maddie\", \"task\": \"Write prod migration runbook\", \"due\": \"Thursday\"}]}",
+      "in_tok": 733,
+      "out_tok": 34
+    }
+  ],
+  "exec_sync_005": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection with actuals through May to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) using Pave benchmarks for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Deliver updated Q3 burn projection with actuals through May\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 78
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Deliver updated Q3 burn projection with actuals through May\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 78
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection with actuals through May to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) using Pave benchmarks for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection with actuals through May to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) using Pave benchmarks for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Deliver updated Q3 burn projection with actuals through May\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read using Pave benchmarks\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 84
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Deliver updated Q3 burn projection with actuals through May\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read using Pave benchmarks\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 84
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection with actuals through May to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) using Pave benchmarks for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection with actuals through May to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) using Pave benchmarks for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 87
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Brent\", \"task\": \"Send updated Q3 burn projection to Nadia\", \"due\": \"Friday\"}, {\"owner\": \"Wes\", \"task\": \"Draft comp framework proposal (bands, leveling) for board pre-read\", \"due\": \"next Wednesday\"}]}",
+      "in_tok": 1135,
+      "out_tok": 76
+    }
+  ]
+}

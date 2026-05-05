@@ -1,0 +1,71 @@
+[Customer Call — Northwind Logistics, Quarterly Review]
+Participants: Jess (CSM, our side), Erin (Sales Engineer, our side), Mark (VP Eng, Northwind)
+Duration: ~14 min
+
+Jess: hey Mark, thanks for making time. How's your week going.
+
+Mark: oh you know, fine. Tuesday is Tuesday. We just rolled out a release last night so I'm a little fried.
+
+Jess: ha, fair. Ok so I figured we'd just walk through how things have been going on your end, anything you need from us, and then Erin can answer any of the technical stuff. Sound good?
+
+Mark: yeah perfect.
+
+Jess: ok. So how have things been with the platform?
+
+Mark: honestly pretty good. The thing my team complains about most is the report builder, it's slow when we have a lot of filters. But it works.
+
+Erin: yeah we're aware of that one, there's a fix going out in the next release I think.
+
+Mark: cool. Other than that — the integration with our warehouse system has been stable, which is nice.
+
+Jess: glad to hear it. Anything you need from us right now? Procurement, security, support stuff?
+
+Mark: actually yeah — security is asking for the SOC 2 report. Can you send that over? They're bugging me about it.
+
+Jess: yes, definitely. I'll send the SOC 2 report to you by end of day today.
+
+Mark: amazing thank you. They also have a security questionnaire they want us to fill out — well, you to fill out. I'll get them to send it to you by Friday.
+
+Jess: ok great, just send it whenever you have it.
+
+Mark: yeah I'll have it over to you by Friday for sure.
+
+Erin: oh and Mark — you mentioned last time wanting to test the new ingestion API in a sandbox before you migrate. I can spin one up for your team. When do you need it by?
+
+Mark: uh, Monday would be great if you can.
+
+Erin: yeah I can have a sandbox ready for your team by Monday. I'll send the credentials to your eng lead.
+
+Mark: perfect.
+
+Jess: anything else on the wishlist?
+
+Mark: I mean, SSO with Okta would be huge. Is that on the roadmap?
+
+Jess: I'll see what our roadmap team thinks about prioritizing SSO with Okta and get back to you. I can't promise timing.
+
+Mark: yeah understood.
+
+Mark: oh and we might increase seats next quarter, depending on how Q2 closes. Just a heads up.
+
+Jess: oh nice — let me know when you have a sense and I can get pricing options ready.
+
+Mark: will do.
+
+Erin: one technical thing — are you all still planning to do the multi-region rollout this year? Because that affects how I'd architect the sandbox.
+
+Mark: uh, we'll consider the multi-region thing for H2. Not committing yet.
+
+Erin: ok cool, I'll architect the sandbox single-region for now.
+
+Jess: alright. Should we get a follow-up on the calendar?
+
+Mark: yeah, let's do another one in like a month-ish. I'll have my assistant find a time.
+
+Jess: sounds good.
+
+Mark: ok cool, I gotta jump. Thanks both.
+
+Erin: thanks Mark.
+
+Jess: bye!

@@ -1,0 +1,85 @@
+[Brainstorm — Q4 Roadmap Ideas]
+Participants: Aiden (PM), Bea (Eng), Cam (Design)
+Duration: ~12 min
+
+Aiden: ok so I don't have an agenda, just wanted to throw ideas around. Q4 planning is in three weeks and I wanted to get ahead of it.
+
+Bea: cool. Yeah I have like fifteen ideas.
+
+Cam: same.
+
+Aiden: ok. Big buckets first. There's the AI search thing we keep talking about. There's the multi-tenant thing. And there's the integrations cleanup.
+
+Bea: I keep coming back to integrations. Like, every time we ship a new connector something else breaks.
+
+Aiden: yeah.
+
+Cam: from a design standpoint integrations would be a nightmare though. Half the work would be making the auth flows not look terrible.
+
+Bea: I mean, that's true.
+
+Aiden: ok. And AI search?
+
+Bea: I think we'd need someone who actually knows ML. None of us do.
+
+Cam: right.
+
+Aiden: do we hire? Or do we punt?
+
+Bea: I think we punt for now. Maybe we do a small spike just to see if it's even possible with our data shape. But not as a Q4 commitment.
+
+Aiden: yeah I lean that way too.
+
+Cam: I could mock up what an AI search experience would look like, just to have something to react to. I keep meaning to anyway.
+
+Aiden: yeah that'd be cool.
+
+Cam: yeah I'll think about it.
+
+Aiden: ok. Multi-tenant?
+
+Bea: that's a six-month project, not a quarter.
+
+Aiden: yeah.
+
+Bea: like real multi-tenant. We could do a hacky version that's basically just feature flags but I don't think that's what enterprise wants.
+
+Aiden: no, agreed. Let's not pretend.
+
+Cam: what about the report builder? You said earlier customers complain about it.
+
+Aiden: yeah. That's not sexy though. Like nobody at QBR wants to hear "we made the report builder less bad."
+
+Bea: ha.
+
+Cam: but if customers actually want it.
+
+Aiden: yeah I know. We should think about it more.
+
+Bea: I'll think about pulling some support ticket data, see if it's worth it. Maybe.
+
+Aiden: that'd be useful if you do.
+
+Bea: yeah, no promises.
+
+Cam: also, and this is a separate thought, I think we should redesign the home dashboard. It's been the same since 2022.
+
+Aiden: lol yeah.
+
+Cam: I don't know if it's a Q4 thing.
+
+Aiden: probably not but also maybe.
+
+Bea: classic.
+
+Aiden: ok I'll noodle on all this and we can pick it back up next week.
+
+Bea: cool.
+
+Cam: yep.
+
+Aiden: ok thanks both. Let me know if you have other thoughts.
+
+Bea: will do.
+
+Cam: bye.

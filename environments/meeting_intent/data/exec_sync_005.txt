@@ -1,0 +1,79 @@
+[Exec Sync — Weekly Leadership]
+Participants: Nadia (CEO), Brent (CFO), Wes (CPO)
+Duration: ~16 min
+
+Nadia: ok let's start. Brent, give me the bad news first.
+
+Brent: ha. Ok. Burn is up about 8% over what we forecasted for the quarter. Most of it is the new infra costs from the Atlas rollout and a couple of senior hires that closed faster than we expected. Nothing on fire but I want you to see updated numbers before the board meeting.
+
+Nadia: ok. When can I have those.
+
+Brent: I can have the updated Q3 burn projection to you by Friday. I want to redo the model with the actuals through May.
+
+Nadia: Friday works. Push it earlier if you can but Friday is the latest.
+
+Brent: yeah Friday.
+
+Nadia: ok. Wes, product side.
+
+Wes: Atlas is going well. We have three design partners actively using it. The blocker right now is that we don't have a coherent comp framework for the Atlas team — they're growing fast and we're making one-off offers that aren't internally consistent.
+
+Nadia: yeah I've heard the same from a couple of people. We need to fix that before it becomes a thing.
+
+Wes: agreed. I'll draft the comp framework proposal — bands, leveling, the whole thing — for the board pre-read. So that's, what, next Wednesday?
+
+Nadia: yeah board's next Thursday so pre-read goes Wednesday.
+
+Wes: ok. Comp framework draft by next Wednesday. I'll use the Pave benchmarks.
+
+Nadia: good.
+
+Brent: while we're on it — should we be thinking about a hiring freeze conversation? Given the burn?
+
+Nadia: hmm. I don't want to commit to that today. Let me sit with the numbers.
+
+Brent: yeah. We should probably do a hiring freeze conversation at some point soon though.
+
+Nadia: agreed in principle.
+
+Wes: I'd push back a little — freezing right when Atlas is taking off feels like the wrong move.
+
+Nadia: yeah. Let's revisit after I see Brent's updated numbers.
+
+Brent: fair.
+
+Nadia: oh — the board chair pinged me about wanting more visibility into platform strategy. I'll talk to him about that — I'll figure out when.
+
+Wes: cool. Let me know if you want me to join.
+
+Nadia: maybe. I'll ping you.
+
+Wes: also — I was thinking, maybe we run a customer survey to validate the Atlas roadmap before we commit Q4 eng cycles to it.
+
+Nadia: yeah maybe. Who would own that.
+
+Wes: I don't know yet. I'll think about it.
+
+Nadia: ok. We need to think more about the platform bet generally — like is Atlas the strategy or is it a wedge into something bigger.
+
+Wes: yeah. Big conversation. Not for today.
+
+Nadia: not for today. Ok — what else?
+
+Brent: oh, one thing — I owe legal an answer on the Series B docs. I'll get back to them on it.
+
+Nadia: ok. When.
+
+Brent: uh. Soon. I'll ping them this week probably.
+
+Nadia: ok just don't let it slip.
+
+Brent: yeah.
+
+Nadia: alright. Brent — Friday, burn numbers. Wes — Wednesday, comp framework. Everything else we'll come back to.
+
+Brent: yep.
+
+Wes: yep.
+
+Nadia: thanks both.

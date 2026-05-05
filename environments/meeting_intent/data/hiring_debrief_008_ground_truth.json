@@ -1,0 +1,41 @@
+{
+  "transcript_id": "hiring_debrief_008",
+  "action_items": [
+    {
+      "owner": "Vik",
+      "task": "Write the L4 leveling recommendation for JC and send it to the comp team so they can model the offer.",
+      "due": "tomorrow",
+      "evidence_quote": "Vik: I'll write it up and send the leveling rec to comp by tomorrow... yeah, tomorrow."
+    },
+    {
+      "owner": "Sara",
+      "task": "Backchannel with her former colleague at Volta who worked with JC two years ago.",
+      "due": "tonight",
+      "evidence_quote": "Sara: I could backchannel. Vik: yeah, would you? Sara: yeah I'll ping her tonight."
+    },
+    {
+      "owner": "Mei",
+      "task": "Send the rejection email to the other final candidate (KP).",
+      "due": "tomorrow",
+      "evidence_quote": "Vik: can you send it out? Mei: yeah, I'll get it out. Probably tomorrow. Vik: tomorrow good? Mei: yeah tomorrow."
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Mei drafting JC's offer letter",
+      "why_not": "Mei said it 'depends on comp turnaround. I can have a draft ready basically as soon as I have numbers' — explicitly conditional on an external trigger, no fixed deadline."
+    },
+    {
+      "text": "Tom drafting a new coding question for the interview loop",
+      "why_not": "Tom said 'I could draft something at some point', Vik replied 'yeah let me know if you want help' — vague, no commitment, no deadline."
+    },
+    {
+      "text": "Reaching out to the ML candidate Tom met at the conference",
+      "why_not": "Vik said 'hmm yeah maybe. Let me think about whether that role is open. Probably not this quarter.' — explicit hedge."
+    },
+    {
+      "text": "Friday regroup meeting",
+      "why_not": "Internal scheduling, not a tracked deliverable."
+    }
+  ]
+}
