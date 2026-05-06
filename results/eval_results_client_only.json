@@ -1,0 +1,49 @@
+{
+  "model": "claude-opus-4-6",
+  "n_samples_per_transcript": 16,
+  "temperature": 1.0,
+  "pass_threshold": 0.99,
+  "n_transcripts": 1,
+  "elapsed_sec": 11.7,
+  "cost_usd": 4.7568,
+  "input_tokens": 308048,
+  "output_tokens": 1815,
+  "aggregate": {
+    "pass_at_1": 0.0,
+    "pass_at_8": 0.0,
+    "pass_at_32": null,
+    "mean_f1": 0.6333333333333332,
+    "format_compliance": 1.0
+  },
+  "per_transcript": [
+    {
+      "transcript_id": "real_client_001",
+      "n_attempted": 16,
+      "n_successful": 16,
+      "n_passing": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": 0.0,
+      "pass_at_32": null,
+      "mean_f1": 0.6333333333333332,
+      "format_compliance": 1.0,
+      "scores": [
+        0.8,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.5714285714285715,
+        0.6666666666666666,
+        0.5714285714285715,
+        0.6666666666666666,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.5714285714285715,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.6666666666666666
+      ]
+    }
+  ]
+}

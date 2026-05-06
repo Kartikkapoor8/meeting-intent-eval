@@ -1,0 +1,84 @@
+{
+  "real_client_001": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Engineer\", \"task\": \"Deploy a link to the App demo for Client to explore on his own\", \"due\": \"tonight\"}, {\"owner\": \"Client\", \"task\": \"Send the 57-page document with 22 story treatments to Engineer and Partner\", \"due\": \"tomorrow morning\"}]}",
+      "in_tok": 19253,
+      "out_tok": 77
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to the team\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document of 22 stories to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Prepare and send additional context about what was happening the same night as the Band A (Band C playing downtown, photography, poster) to Engineer\",\"due\":\"after this meeting\"},{\"owner\":\"Engineer\",\"task\":\"Think about how to direct Client on what to do with the University MIS students and provide guidance\",\"due\":\"before next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 140
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document with 22 stories to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Prepare and send information about what was happening the same night as the Band A (Band C playing downtown, photography, poster) to Engineer\",\"due\":\"after this meeting\"},{\"owner\":\"Engineer\",\"task\":\"Think about how to direct Client on what the University MIS students should work on\",\"due\":\"before next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 137
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Think about which path to direct the University MIS students (intake platform vs. content organization) and decide before meeting with them\",\"due\":\"next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Engineer\",\"task\":\"Think about how to direct Client on what the University MIS students should work on\",\"due\":\"before next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 90
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Think about which path to direct the University MIS students (intake platform vs. content organization for Engineer) and decide before meeting with them\",\"due\":\"Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 101
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Think about which path to direct the University MIS students (intake platform vs. content organization for Engineer) and decide before Tuesday meeting\",\"due\":\"before next Tuesday\"},{\"owner\":\"Engineer\",\"task\":\"Add more content points, finish the timeline feature, and prepare for a shorter follow-up meeting\",\"due\":\"not explicitly stated\"}]}",
+      "in_tok": 19253,
+      "out_tok": 135
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Engineer\",\"task\":\"Think about how to direct Client on what the University MIS students should work on\",\"due\":\"before next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 90
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Think about which path to direct the University MIS students (intake platform vs. content organization for Engineer) and decide before Tuesday\",\"due\":\"before next Tuesday\"},{\"owner\":\"Engineer\",\"task\":\"Add more content points, finish the timeline feature, and prepare an updated demo for a shorter follow-up meeting\",\"due\":\"after receiving the document from Client\"}]}",
+      "in_tok": 19253,
+      "out_tok": 140
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document with 22 stories to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Think about which path to direct the University MIS students (intake platform vs. content organization) and communicate direction\",\"due\":\"next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Prepare and send Engineer supplemental Band A content (what was happening the same night, Band C info, photography, poster)\",\"due\":\"after this meeting\"},{\"owner\":\"Engineer\",\"task\":\"Add more content points to the App, finish the timeline feature, and reconvene for a shorter follow-up meeting\",\"due\":\"after receiving the document\"}]}",
+      "in_tok": 19253,
+      "out_tok": 141
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document with 22 story treatments to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Prepare and send additional Band A context info (e.g., Band C playing same night, photography, poster) to Engineer\",\"due\":\"after this meeting\"},{\"owner\":\"Engineer\",\"task\":\"Add more content points, finish the timeline feature, and prepare an updated demo for a short reconvene meeting\",\"due\":\"not explicitly stated\"}]}",
+      "in_tok": 19253,
+      "out_tok": 142
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document with 22 stories to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Prepare and send Engineer information about what was happening the same night as the Band A (Band C playing downtown, photography, poster)\",\"due\":\"after this meeting\"},{\"owner\":\"Engineer\",\"task\":\"Think about how to direct Client on what the University MIS students should work on\",\"due\":\"before next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 136
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Engineer\",\"task\":\"Think about how to direct Client on what the University MIS students should work on\",\"due\":\"before next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 90
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Engineer\",\"task\":\"Think about how to direct Client on what the University MIS students should work on\",\"due\":\"before next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 90
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document of 22 story treatments to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Send Engineer additional context info about what was happening the same night as the Band A (Band C playing downtown, photography, poster)\",\"due\":\"after this meeting\"}]}",
+      "in_tok": 19253,
+      "out_tok": 106
+    }
+  ]
+}

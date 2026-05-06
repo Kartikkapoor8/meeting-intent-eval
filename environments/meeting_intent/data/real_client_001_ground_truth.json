@@ -1,0 +1,81 @@
+{
+  "transcript_id": "real_client_001",
+  "source": {
+    "type": "Real client App-demo meeting (anonymized)",
+    "duration_minutes": 82,
+    "context": "Engineer walks Client + Partner + Advisor through a working demo of a location-based AI tour-guide App. Real meeting recorded over video platform; all names, project names, brands, places, and product references replaced with role/category placeholders."
+  },
+  "rubric_focus": "Action items where the commitment is made through back-and-forth dialogue, not a single declarative sentence. Multi-turn pattern: someone raises a topic or asks, the other person offers, the first confirms.",
+  "action_items": [
+    {
+      "owner": "Client",
+      "task": "Send the 57-page story document to the Engineer (and Partner) tomorrow morning.",
+      "due": "tomorrow morning",
+      "evidence_quote": "Well, tomorrow morning, I'll send to the two of you the 57 page document.",
+      "dialogue_chain": [
+        "Client: ...what are your thoughts, Partner? Was that too much right now? Or should Engineer take a look at it...",
+        "Advisor: is there a way to make it that everything that Client just said is not just put out into an LLM...we'd be giving away all our intellectual property.",
+        "Engineer: Oh, all information is private. It stays local.",
+        "Partner: if you signed an NDA, right, like the whole purpose of that is to trust at that point...we want to get that going in the places where things are going to be built out.",
+        "Client: Well, they would never. Yeah, I'm happy to send it to Engineer. Engineer, I could send it to you...So I'll create on my side, a document file, and share it with you and Partner.",
+        "Client: Well, tomorrow morning, I'll send to the two of you the 57 page document."
+      ]
+    },
+    {
+      "owner": "Engineer",
+      "task": "Deploy a link to the App and send it to the team tonight so they can log in and test it on their own.",
+      "due": "tonight",
+      "evidence_quote": "What I'm going to do is deploy a link. And later tonight, it might be late because I'm come home a little bit late...What I'll do is I'll send a link to you and then you'll be able to do on the App on your own and you could kind of check out the features by yourself.",
+      "dialogue_chain": [
+        "Engineer: Any last questions about the App itself? What I'm going to do is deploy a link. And later tonight...I'll send a link to you.",
+        "Client: I'm beyond pleased. Partner, thank you, Engineer.",
+        "Engineer (re-affirming at close): What I'll do is I'll send a forward, like another just email."
+      ]
+    },
+    {
+      "owner": "Engineer",
+      "task": "Finish the interactive timeline feature, add more content / dots on the map, and reconvene for a shorter 10\u201320 minute follow-up meeting.",
+      "due": "open",
+      "evidence_quote": "I can finish up the timeline. I can add a couple more points and we can get it a little bit more functional and we can reconvene for a much shorter meeting, maybe 10, 20 minutes.",
+      "dialogue_chain": [
+        "Engineer (earlier in call): one more thing, one feature I was just finishing up. I didn't put it here because it's not 100% complete...interactive timeline.",
+        "Engineer (at close): you can send me over that doc. I can add, I can finish up the timeline. I can add a couple more points and we can get it a little bit more functional and we can reconvene for a much shorter meeting, maybe 10, 20 minutes.",
+        "Client: That all sounds good to me, my friend."
+      ]
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Engineer will send Client a written direction on what the University MIS students should build.",
+      "why_not": "Client asked Engineer to 'give me some direction what to do with these great kids at the University.' Engineer said 'Of course' but the call ended without a specific deliverable, owner-bound deadline, or written commitment. Partner closed with 'you need to think about that...here's these two paths, professor, what do you think?' Conversation deferred without closing."
+    },
+    {
+      "text": "Client will prepare and send the Rolling Stones / Band C same-night content for the Band A landmark.",
+      "why_not": "Client said 'I can send you that information after this meeting' and 'offline, I could prepare that for you and you can decide how it plays.' Engineer moved on without an explicit confirmation, and Client never gave a specific deadline. Hedged with 'I could'."
+    },
+    {
+      "text": "Engineer will integrate StreamingService API to pull user playlists.",
+      "why_not": "Advisor asked about tying into MusicApp / streaming services; Engineer said 'I believe StreamingService does have an API for any database to pull the user's playlist. So I think that would be interesting. Maybe we could pull the playlist for the users.' Hedged with 'I think', 'maybe', 'we could'. No commitment."
+    },
+    {
+      "text": "Engineer will add Maps API integration for trip routing.",
+      "why_not": "Engineer described possible future integration: 'we couldn't add a very similar...we can use Maps API in the backend.' All discussed as a future possibility, no commitment to do it."
+    },
+    {
+      "text": "Engineer will build voice-replication of interview audio.",
+      "why_not": "Engineer offered 'we can not only use old videos of her that have said it, but we can generate new text in her voice.' Client explicitly rejected: 'Let me clear that up. I don't want to try and do voice recognition or voice replication...that's not going to happen.' Closed off, not adopted."
+    },
+    {
+      "text": "Engineer will add push notifications for date-tagged anniversary content.",
+      "why_not": "Client asked about date-tagged anniversary opt-in. Engineer said 'we don't need artificial intelligence for that. We can always just manually also, like when we have new information, we can always have push notifications through any App.' Capability statement, not a commitment to implement now."
+    },
+    {
+      "text": "Client will go back to the University professor with the two-paths framing for the MIS student project.",
+      "why_not": "Partner suggested the framing ('here's these two paths, professor, what do you think?'). Client did not explicitly commit. Conversation ended on Partner's suggestion."
+    },
+    {
+      "text": "Engineer will look at the document and provide direction by next Tuesday.",
+      "why_not": "Client said 'I don't know if you can be helpful here in the next, you know, by next Tuesday is to come up with a major we just reconvene and we record it or something. I don't want you to have to write something.' Client explicitly removed the obligation in the same sentence ('I don't want you to have to write something')."
+    }
+  ]
+}

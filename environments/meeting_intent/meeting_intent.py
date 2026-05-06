@@ -109,6 +109,13 @@ ANCHORS: dict[str, list[list[str]]] = {
         ["deposit", "tax season", "consumer", "next quarter"],                    # Jeremy: revisit next quarter
         ["g-sib", "gsib", "charge", "brainpower", "arbitrage", "capital"],         # Jamie: reduce G-SIB
     ],
+    # Real anonymized client App-demo meeting (workplace dialogue, ~80 min).
+    # Roles: Engineer, Client, Partner, Advisor.
+    "real_client_001": [
+        ["57", "page", "document", "story", "doc"],                # Client: send 57-page doc
+        ["link", "deploy", "send a link", "demo link", "App link"], # Engineer: send link tonight
+        ["timeline", "reconvene", "shorter", "follow-up", "10", "20"], # Engineer: timeline + reconvene
+    ],
 }
 
 
