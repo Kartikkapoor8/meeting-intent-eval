@@ -1,0 +1,49 @@
+{
+  "transcript_id": "real_earnings_002",
+  "source": {
+    "type": "Quarterly earnings call",
+    "company": "NVIDIA Corporation (NASDAQ: NVDA)",
+    "period": "Q3 FY2026",
+    "call_date": "2025-11-19",
+    "transcript_url": "https://www.fool.com/earnings/call-transcripts/2025/11/19/nvidia-nvda-q3-2026-earnings-call-transcript/"
+  },
+  "rubric_focus": "Only dialogue-confirmation commitments \u2014 things the speaker did not volunteer in prepared remarks but committed to after an analyst pushed for them through follow-up questions.",
+  "action_items": [
+    {
+      "owner": "Colette",
+      "task": "Work to hold non-GAAP gross margins in the mid-seventies for next year, by managing input costs / cycle time / mix.",
+      "due": "next year",
+      "evidence_quote": "we do believe if we look at working again on cost improvements, cycle time, and mix, that we will work to try and hold at our gross margins in the mid-seventies. So that's our overall plan for gross margin.",
+      "dialogue_chain": [
+        "Stacy Rasgon: Colette, I had some questions on margins. You said for next year, you're working to hold them in the mid-seventies. So I guess, first of all, what are the biggest cost increases? ... how should we think about OpEx growth next year given the revenues seem likely to grow materially?",
+        "Colette Kress: [explains current FY context] ... working right now in terms of next year. Next year, there are input prices that are well known in the industries that we need to work through... we will work to try and hold at our gross margins in the mid-seventies. So that's our overall plan for gross margin."
+      ]
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Toshiya Hari attending the UBS Global Technology and AI Conference on December 2 and the Q4 FY26 earnings call on February 25.",
+      "why_not": "Stated unilaterally in IR closing remarks; not elicited through analyst dialogue. Pre-scheduled events, not dialogue-confirmation."
+    },
+    {
+      "text": "NVIDIA's collaboration with Anthropic (CUDA optimization, up to 1 GW of Grace Blackwell / Vera Rubin compute capacity).",
+      "why_not": "Announced as already-agreed partnership in prepared remarks. No analyst pushed Jensen or Colette to commit during Q&A."
+    },
+    {
+      "text": "Definitive agreement with OpenAI for self-build infrastructure.",
+      "why_not": "Disclosed as 'we are working toward a definitive agreement' in prepared remarks. Not yet finalized; not elicited through Q&A."
+    },
+    {
+      "text": "Continued US manufacturing build-out with Foxconn / Wistron / Amkor / SPIL over the next four years.",
+      "why_not": "Strategic positioning stated in prepared remarks, not a Q&A commitment."
+    },
+    {
+      "text": "Continued engagement with US and China governments on export policy.",
+      "why_not": "Stated as ongoing posture in prepared remarks."
+    },
+    {
+      "text": "Jensen: 'we'll probably be taking more orders' for the $500B forecast.",
+      "why_not": "Hedged with 'probably'; same shape as Devon's pre-commitment phrasing in synthetic set's hedge examples."
+    }
+  ]
+}

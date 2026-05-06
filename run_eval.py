@@ -30,6 +30,10 @@ PRICE_IN = 15.0 / 1_000_000
 PRICE_OUT = 75.0 / 1_000_000
 
 
+def _fmt(v) -> str:
+    return f"{v:.3f}" if v is not None else "n/a"
+
+
 def pass_at_k(n: int, c: int, k: int) -> float:
     if n - c < k:
         return 1.0
@@ -138,7 +142,7 @@ async def main():
         p1, p8, p32 = row_result["pass_at_1"], row_result["pass_at_8"], row_result["pass_at_32"]
         print(
             f"  passing={c}/{n}  "
-            f"pass@1={p1:.3f}  pass@8={p8:.3f}  pass@32={p32:.3f}  "
+            f"pass@1={_fmt(p1)}  pass@8={_fmt(p8)}  pass@32={_fmt(p32)}  "
             f"meanF1={row_result['mean_f1']:.3f}  fmt={row_result['format_compliance']:.3f}  "
             f"spent=${cost.usd:.2f}",
             flush=True,
@@ -189,11 +193,11 @@ async def main():
     print("=" * 60)
     print(f"RESULTS  model={MODEL}  transcripts={n_rows}  n={N_SAMPLES}  T={TEMPERATURE}")
     print("=" * 60)
-    print(f"pass@1            {summary['aggregate']['pass_at_1']:.3f}")
-    print(f"pass@8            {summary['aggregate']['pass_at_8']:.3f}")
-    print(f"pass@32           {summary['aggregate']['pass_at_32']:.3f}")
-    print(f"mean F1           {summary['aggregate']['mean_f1']:.3f}")
-    print(f"format compliance {summary['aggregate']['format_compliance']:.3f}")
+    print(f"pass@1            {_fmt(summary['aggregate']['pass_at_1'])}")
+    print(f"pass@8            {_fmt(summary['aggregate']['pass_at_8'])}")
+    print(f"pass@32           {_fmt(summary['aggregate']['pass_at_32'])}")
+    print(f"mean F1           {_fmt(summary['aggregate']['mean_f1'])}")
+    print(f"format compliance {_fmt(summary['aggregate']['format_compliance'])}")
     print(f"cost              ${summary['cost_usd']:.2f}")
     print(f"elapsed           {summary['elapsed_sec']}s")
     print()

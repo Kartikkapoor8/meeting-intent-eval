@@ -1,0 +1,65 @@
+{
+  "transcript_id": "real_earnings_003",
+  "source": {
+    "type": "Quarterly earnings call",
+    "company": "JPMorgan Chase & Co. (NYSE: JPM)",
+    "period": "Q1 2026",
+    "call_date": "2026-04-21",
+    "transcript_url": "https://www.fool.com/earnings/call-transcripts/2026/04/21/jpmorgan-jpm-q1-2026-earnings-call-transcript/"
+  },
+  "rubric_focus": "Only dialogue-confirmation commitments \u2014 things the speaker did not volunteer in prepared remarks but committed to after an analyst pushed for them through follow-up questions.",
+  "action_items": [
+    {
+      "owner": "Jeremy",
+      "task": "Add Mike Mayo's concern about artificial tangible-book-value targets / 'round-tripping' to the list of items to come back to.",
+      "due": "open",
+      "evidence_quote": "Very well. I'll add that to list. Next question.",
+      "dialogue_chain": [
+        "Michael Mayo: [pushes back on the idea that managing to a tangible-book-value target produces good outcomes] ... I don't particularly like that because I think it puts you in an artificial position thinking that's always a good thing when it's not.",
+        "Jeremy Barnum: Very well. I'll add that to list. Next question."
+      ]
+    },
+    {
+      "owner": "Jeremy",
+      "task": "Provide a clearer view on consumer-deposit fundamentals next quarter, once tax season is past.",
+      "due": "next quarter",
+      "evidence_quote": "we'll be a little bit more confident in that, as you say, once we get through tax season. So maybe we'll know a little bit more next quarter.",
+      "dialogue_chain": [
+        "Manan Gosalia: ... how you see deposit competition unfolding as similar smart tools become more widespread?",
+        "Jeremy Barnum: [discusses outlook] ... we'll be a little bit more confident in that, as you say, once we get through tax season. So maybe we'll know a little bit more next quarter."
+      ]
+    },
+    {
+      "owner": "Jamie",
+      "task": "Use JPMorgan's resources to find ways to reduce the firm's G-SIB charge under the new reproposal (regulatory arbitrage to serve clients).",
+      "due": "ongoing",
+      "evidence_quote": "We will obviously use our brainpower to do something I don't like doing, which is trying to find a lot of ways to serve our clients properly and reduce the G-SIB charge, which is usually called arbitrage. So I'm not sure the outcome is great for the system, but we will find ways to do it.",
+      "dialogue_chain": [
+        "Glenn Schorr / Michael Mayo: [push on big capital needs and how the G-SIB / Basel III reproposal disadvantages JPM]",
+        "James Dimon: I'll add one other thing. We will obviously use our brainpower... we will find ways to do it."
+      ]
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Reaffirmed 2026 guidance: NII ~$95.5B, adjusted expense ~$105B, card net charge-off rate ~3.4%.",
+      "why_not": "Stated unilaterally by Jeremy in prepared remarks. Dimon explicitly disclaims the expense number as a commitment: 'The $105 billion is not a promise, it's an outcome of business results.'"
+    },
+    {
+      "text": "Continued investment in JPM's new AI-powered savings tool.",
+      "why_not": "Steven Chubak asked about it; Jeremy described existing strategy without committing to a specific new action or deadline."
+    },
+    {
+      "text": "Various 'we'll see' statements from Jeremy on macro / loan / deposit outlook.",
+      "why_not": "Explicit signal of uncertainty; not a commitment."
+    },
+    {
+      "text": "$50 billion private-credit / leveraged-loan exposure number disclosed during Glenn Schorr's question.",
+      "why_not": "Disclosure of a current state, not a commitment to act."
+    },
+    {
+      "text": "JPM continuing to 'be there for our clients for whatever they need.'",
+      "why_not": "Aspirational positioning; not a specific action item."
+    }
+  ]
+}

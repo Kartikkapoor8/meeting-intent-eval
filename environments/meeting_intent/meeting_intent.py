@@ -95,6 +95,20 @@ ANCHORS: dict[str, list[list[str]]] = {
         ["auth", "investig", "service"],                          # Min: auth investigation
         ["status page", "status", "post", "investigating", "update"],  # Raul: status page
     ],
+    # Real public earnings-call transcripts (workplace-Q&A format).
+    # Ground truth focuses on dialogue-confirmation commitments — softer than the
+    # synthetic set, used to expose the failure pattern on real data.
+    "real_earnings_001": [
+        ["offline", "rent", "collect", "follow up", "follow-up", "modeling"],  # Ben: offline w/ Connor
+    ],
+    "real_earnings_002": [
+        ["margin", "mid-seven", "mid-70", "gross", "seventies"],  # Colette: hold mid-70s GM
+    ],
+    "real_earnings_003": [
+        ["mayo", "book value", "tangible", "round-trip", "list", "artificial"],  # Jeremy: add to list
+        ["deposit", "tax season", "consumer", "next quarter"],                    # Jeremy: revisit next quarter
+        ["g-sib", "gsib", "charge", "brainpower", "arbitrage", "capital"],         # Jamie: reduce G-SIB
+    ],
 }
 
 

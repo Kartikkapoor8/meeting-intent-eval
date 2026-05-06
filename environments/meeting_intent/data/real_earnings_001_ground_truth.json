@@ -1,0 +1,47 @@
+{
+  "transcript_id": "real_earnings_001",
+  "source": {
+    "type": "Quarterly earnings call",
+    "company": "Innovative Industrial Properties, Inc. (NYSE: IIPR)",
+    "period": "Q1 2025",
+    "call_date": "2025-05-08",
+    "transcript_url": "https://www.fool.com/earnings/call-transcripts/2026/05/04/iipr-q1-2025-earnings-call-transcript/"
+  },
+  "rubric_focus": "Only dialogue-confirmation commitments \u2014 things the speaker did not volunteer in prepared remarks but committed to after an analyst pushed for them through follow-up questions.",
+  "action_items": [
+    {
+      "owner": "Ben",
+      "task": "Follow up offline with Connor on the monthly breakdown of rent collected from defaulted tenants.",
+      "due": "offline",
+      "evidence_quote": "We can go into the detail offline, but it was roughly $4.5 million that we collected from the defaulted tenants during the quarter.",
+      "dialogue_chain": [
+        "Connor Mitchell: And then any rents as well, I think for some of these, you may receive January payments, but not February or March?",
+        "Ben Regin: In terms of what we actually collected?",
+        "Connor Mitchell: Yes. Just thinking about a modeling perspective going forward, what won't be being received for a quarterly standpoint or even monthly?",
+        "Ben Regin: Yes. We can go into the detail offline, but it was roughly $4.5 million that we collected from the defaulted tenants during the quarter."
+      ]
+    }
+  ],
+  "non_commitments": [
+    {
+      "text": "Paul Smithers' 'we'll provide updates as we progress' on PharmaCann/4Front recovery.",
+      "why_not": "Paul stated this unilaterally in his prepared remarks, not in response to an analyst's pushback. Not a dialogue-confirmation commitment."
+    },
+    {
+      "text": "Alan Gold 'hopefully... in the next short three to six month period of time, we can to announce some new investments.'",
+      "why_not": "Hedged with 'hopefully' and 'can'. Same shape as Priya's 'I might mock something up just for fun, no promises' \u2014 explicit non-promise."
+    },
+    {
+      "text": "18\u201336 month portfolio stabilization.",
+      "why_not": "Forward outlook ('within a short 18 to 36 month period of time, the ship will generally be righted'); no actionable deliverable or owner-bound deadline."
+    },
+    {
+      "text": "Continued pursuit of legal remedies / receiverships against defaulted tenants.",
+      "why_not": "Already in motion before the call (default notices issued in March; Stone Blossom already appointed receiver of Gold Flora). Mgmt described an existing process rather than committing to a new action."
+    },
+    {
+      "text": "Pending rent commencement on three leased properties awaiting regulatory approval.",
+      "why_not": "Ben Regin called this 'pretty standard across markets and across industries' \u2014 normal-course, no commitment to specific action or date."
+    }
+  ]
+}
