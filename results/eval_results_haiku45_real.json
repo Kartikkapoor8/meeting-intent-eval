@@ -1,0 +1,62 @@
+{
+  "model": "claude-haiku-4-5-20251001",
+  "n_samples_per_transcript": 8,
+  "temperature": 1.0,
+  "pass_threshold": 0.99,
+  "n_transcripts": 2,
+  "elapsed_sec": 105.3,
+  "cost_usd": 2.1192,
+  "input_tokens": 140080,
+  "output_tokens": 240,
+  "aggregate": {
+    "pass_at_1": 0.0,
+    "pass_at_8": 0.0,
+    "pass_at_32": null,
+    "mean_f1": 0.0,
+    "format_compliance": 1.0
+  },
+  "per_transcript": [
+    {
+      "transcript_id": "real_earnings_001",
+      "n_attempted": 8,
+      "n_successful": 8,
+      "n_passing": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": 0.0,
+      "pass_at_32": null,
+      "mean_f1": 0.0,
+      "format_compliance": 1.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "transcript_id": "real_earnings_002",
+      "n_attempted": 8,
+      "n_successful": 8,
+      "n_passing": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": 0.0,
+      "pass_at_32": null,
+      "mean_f1": 0.0,
+      "format_compliance": 1.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

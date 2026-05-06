@@ -1,0 +1,41 @@
+{
+  "model": "claude-haiku-4-5-20251001",
+  "n_samples_per_transcript": 8,
+  "temperature": 1.0,
+  "pass_threshold": 0.99,
+  "n_transcripts": 1,
+  "elapsed_sec": 118.1,
+  "cost_usd": 1.8598,
+  "input_tokens": 123384,
+  "output_tokens": 120,
+  "aggregate": {
+    "pass_at_1": 0.0,
+    "pass_at_8": 0.0,
+    "pass_at_32": null,
+    "mean_f1": 0.0,
+    "format_compliance": 1.0
+  },
+  "per_transcript": [
+    {
+      "transcript_id": "real_earnings_003",
+      "n_attempted": 8,
+      "n_successful": 8,
+      "n_passing": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": 0.0,
+      "pass_at_32": null,
+      "mean_f1": 0.0,
+      "format_compliance": 1.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}
