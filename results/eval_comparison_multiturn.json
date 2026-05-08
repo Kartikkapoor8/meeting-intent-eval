@@ -1,0 +1,74 @@
+{
+  "variant": "multiturn",
+  "model": "claude-opus-4-6",
+  "n_samples_per_transcript": 8,
+  "temperature": 1.0,
+  "pass_threshold": 0.99,
+  "n_transcripts": 3,
+  "elapsed_sec": 86.8,
+  "cost_usd": 15.1217,
+  "input_tokens": 975614,
+  "output_tokens": 6500,
+  "aggregate": {
+    "pass_at_1": 0.0,
+    "pass_at_8": null,
+    "mean_f1": 0.0,
+    "format_compliance": 0.16666666666666666
+  },
+  "per_transcript": [
+    {
+      "transcript_id": "real_earnings_001",
+      "n_attempted": 8,
+      "n_successful": 2,
+      "n_passing": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": null,
+      "mean_f1": 0.0,
+      "format_compliance": 0.25,
+      "scores": [
+        0.0,
+        0.0
+      ],
+      "mean_turns": 7.375,
+      "mean_tool_calls": 7.375,
+      "n_called_done": 2,
+      "n_called_revise": 0,
+      "n_called_remove": 0
+    },
+    {
+      "transcript_id": "real_earnings_002",
+      "n_attempted": 8,
+      "n_successful": 2,
+      "n_passing": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": null,
+      "mean_f1": 0.0,
+      "format_compliance": 0.25,
+      "scores": [
+        0.0,
+        0.0
+      ],
+      "mean_turns": 3.75,
+      "mean_tool_calls": 3.75,
+      "n_called_done": 2,
+      "n_called_revise": 0,
+      "n_called_remove": 0
+    },
+    {
+      "transcript_id": "real_earnings_003",
+      "n_attempted": 8,
+      "n_successful": 0,
+      "n_passing": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": null,
+      "mean_f1": 0.0,
+      "format_compliance": 0.0,
+      "scores": [],
+      "mean_turns": 2.25,
+      "mean_tool_calls": 2.25,
+      "n_called_done": 0,
+      "n_called_revise": 0,
+      "n_called_remove": 0
+    }
+  ]
+}

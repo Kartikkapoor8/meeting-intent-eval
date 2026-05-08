@@ -1,0 +1,170 @@
+{
+  "real_earnings_001": [
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 5653,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 5653,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 5653,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 5653,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 5653,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 5653,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 5653,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 5653,
+      "out_tok": 10
+    }
+  ],
+  "real_earnings_002": [
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 11859,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 11859,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 11859,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 11859,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 11859,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 11859,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 11859,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 11859,
+      "out_tok": 10
+    }
+  ],
+  "real_earnings_003": [
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 15424,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 15424,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 15424,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 15424,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 15424,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 15424,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 15424,
+      "out_tok": 10
+    },
+    {
+      "text": "{\"action_items\": []}",
+      "in_tok": 15424,
+      "out_tok": 10
+    }
+  ],
+  "real_client_001": [
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Engineer\", \"task\": \"Deploy a link to the App demo for Client to explore on his own\", \"due\": \"tonight\"}, {\"owner\": \"Client\", \"task\": \"Send the 57-page story treatments document to Engineer and Partner\", \"due\": \"tomorrow morning\"}]}",
+      "in_tok": 19253,
+      "out_tok": 73
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Think about which path to direct the University MIS students (intake platform vs. content organization) and decide before Tuesday meeting\",\"due\":\"before next Tuesday\"},{\"owner\":\"Engineer\",\"task\":\"Add more content points and finish the timeline feature, then reconvene for a short follow-up meeting\",\"due\":\"after receiving the document from Client\"}]}",
+      "in_tok": 19253,
+      "out_tok": 138
+    },
+    {
+      "text": "{\"action_items\": [{\"owner\": \"Engineer\", \"task\": \"Deploy a link to the App demo for Client and Partner to explore on their own\", \"due\": \"tonight (Friday night)\"},{\"owner\": \"Client\", \"task\": \"Send the 57-page story treatments document to Engineer and Partner\", \"due\": \"tomorrow morning (Saturday)\"}]}",
+      "in_tok": 19253,
+      "out_tok": 81
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page story treatments document to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Think about which path to direct the University MIS students (intake platform vs. content organization) and decide before meeting with them\",\"due\":\"next Tuesday\"},{\"owner\":\"Engineer\",\"task\":\"Add more content points to the map, finish the timeline feature, and prepare a more functional version of the App for a follow-up meeting\",\"due\":\"before next reconvene meeting\"}]}",
+      "in_tok": 19253,
+      "out_tok": 145
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document of 22 stories to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Figure out direction/scope for the University MIS students project\",\"due\":\"by next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 91
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client and Partner\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document of 22 stories to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Think about which path to direct the University MIS students (intake platform vs. content organization) and provide direction\",\"due\":\"next Tuesday\"}]}",
+      "in_tok": 19253,
+      "out_tok": 100
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to Client\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document of 22 stories to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Send Engineer additional Band A context info (e.g., Band C playing same night, photography, poster)\",\"due\":\"after this meeting\"}]}",
+      "in_tok": 19253,
+      "out_tok": 99
+    },
+    {
+      "text": "{\"action_items\":[{\"owner\":\"Engineer\",\"task\":\"Deploy a link to the App demo and send it to the team\",\"due\":\"tonight\"},{\"owner\":\"Client\",\"task\":\"Send the 57-page document with 22 stories to Engineer and Partner\",\"due\":\"tomorrow morning\"},{\"owner\":\"Client\",\"task\":\"Create a shared document file and share it with Engineer and Partner\",\"due\":\"tomorrow morning\"}]}",
+      "in_tok": 19253,
+      "out_tok": 89
+    }
+  ]
+}

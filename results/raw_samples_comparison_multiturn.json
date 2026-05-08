@@ -1,0 +1,401 @@
+{
+  "real_earnings_001": [
+    {
+      "score": 0.0,
+      "turns": 5,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 5,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 9,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "done"
+      ],
+      "n_tool_calls": 9,
+      "called_done": true,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": null
+    },
+    {
+      "score": 0.0,
+      "turns": 7,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 7,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 7,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 7,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 7,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 7,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 8,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 8,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 7,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 7,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 9,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "done"
+      ],
+      "n_tool_calls": 9,
+      "called_done": true,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": null
+    }
+  ],
+  "real_earnings_002": [
+    {
+      "score": 0.0,
+      "turns": 0,
+      "tool_calls": [],
+      "n_tool_calls": 0,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 3,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 3,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 1,
+      "tool_calls": [
+        "next_chunk"
+      ],
+      "n_tool_calls": 1,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 2,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 2,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 11,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "done"
+      ],
+      "n_tool_calls": 11,
+      "called_done": true,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": null
+    },
+    {
+      "score": 0.0,
+      "turns": 1,
+      "tool_calls": [
+        "next_chunk"
+      ],
+      "n_tool_calls": 1,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 12,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "done"
+      ],
+      "n_tool_calls": 12,
+      "called_done": true,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": null
+    },
+    {
+      "score": 0.0,
+      "turns": 0,
+      "tool_calls": [],
+      "n_tool_calls": 0,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    }
+  ],
+  "real_earnings_003": [
+    {
+      "score": 0.0,
+      "turns": 1,
+      "tool_calls": [
+        "next_chunk"
+      ],
+      "n_tool_calls": 1,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 4,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 4,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 1,
+      "tool_calls": [
+        "next_chunk"
+      ],
+      "n_tool_calls": 1,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 1,
+      "tool_calls": [
+        "next_chunk"
+      ],
+      "n_tool_calls": 1,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 1,
+      "tool_calls": [
+        "next_chunk"
+      ],
+      "n_tool_calls": 1,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    },
+    {
+      "score": 0.0,
+      "turns": 5,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 5,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "budget_cap"
+    },
+    {
+      "score": 0.0,
+      "turns": 4,
+      "tool_calls": [
+        "next_chunk",
+        "next_chunk",
+        "next_chunk",
+        "next_chunk"
+      ],
+      "n_tool_calls": 4,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "budget_cap"
+    },
+    {
+      "score": 0.0,
+      "turns": 1,
+      "tool_calls": [
+        "next_chunk"
+      ],
+      "n_tool_calls": 1,
+      "called_done": false,
+      "called_revise": false,
+      "called_remove": false,
+      "notepad": [],
+      "error": "Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: 9840f6c1-c510-4708-8a69-8"
+    }
+  ]
+}
