@@ -7,6 +7,11 @@ requires-python = ">=3.10"
 dependencies = [
     "verifiers>=0.1.12",
     "datasets",
+    # Pinned: newer openai-agents trips a Python 3.11.0 typing bug
+    # (TContext TypeVar) when verifiers imports agents.function_schema
+    # for tool schema generation. 0.0.16 is the last version that works
+    # on stock 3.11.0 and exposes the function_schema API verifiers needs.
+    "openai-agents==0.0.16",
 ]
 
 [build-system]
