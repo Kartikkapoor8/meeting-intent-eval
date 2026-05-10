@@ -1,0 +1,170 @@
+{
+  "real_client_001": [
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document with 22 story treatments to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Prepare and send information about what was happening the same night as the Band A (Band C playing downtown, photography, poster) to Engineer for the demo\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App demo for Client and team to explore on their own\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Think about how to direct Client on what the University MIS students can work on and provide guidance\",\n      \"due\": \"by next Tuesday\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish the timeline feature, add more content points to the demo, and reconvene for a shorter follow-up meeting\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Run the 57-page document back through LLMVendor to refine tone and authenticity before sharing\",\n      \"due\": \"before sending to Engineer\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Create a shared document file and share it with Engineer and Partner\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Determine which path to direct the University MIS students (intake platform vs. content organization) and discuss with the professor\",\n      \"due\": \"before next Tuesday\"\n    }\n  ]\n}\n```",
+      "in_tok": 19266,
+      "out_tok": 435
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page story treatments document to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send Engineer information about what was happening the same night as the Band A (Band C playing downtown, photography, poster) for the Demo\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App so Client can explore the features on his own\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Think about how to direct Client on what the University MIS students can work on and provide guidance\",\n      \"due\": \"by next Tuesday\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Add more content (finish timeline, add more points) to the Demo App and reconvene for a shorter follow-up meeting\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Run the 57-page document back through LLMVendor to refine tone and pull together key addresses/details, then share with Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Create a shared document file with the 57-page content and share with Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Partner\",\n      \"task\": \"Help Client decide which path to direct the University MIS students (intake platform vs. content organization for Engineer)\",\n      \"due\": \"before next Tuesday\"\n    }\n  ]\n}\n```",
+      "in_tok": 19266,
+      "out_tok": 436
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document with 22 story treatments to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Prepare and send information about what was happening the same night as the Band A (Band C playing downtown, photography, poster) to Engineer for the Demo\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App demo and send it to Client and Partner\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Think about and provide direction on what the University MIS students can work on to support the project\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish the timeline feature, add more content/points to the App, and reconvene for a shorter follow-up meeting\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Run the 57-page document back through LLMVendor to refine tone and authenticity before sending\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Figure out direction for University MIS students and provide guidance by next Tuesday's meeting with them\",\n      \"due\": \"next Tuesday\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Create a shared document file and share it with Engineer and Partner\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Partner\",\n      \"task\": \"Think about which path to recommend for the University MIS students (intake platform vs. content organization for Engineer)\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 19266,
+      "out_tok": 473
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document with 22 story treatments to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send Engineer information about what was happening the same night as the Band A (Band C playing downtown, photography, poster) for the Demo\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App so Client can explore the features on his own\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Think about how to direct Client on what the University MIS students can work on and provide guidance\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Create a shared document folder and share it with Engineer and Partner\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish the timeline feature, add more map points/content, and reconvene for a shorter follow-up meeting\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Run the 57-page document back through LLMVendor to refine tone and authenticity before sharing\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Figure out direction for University MIS students and provide guidance by their Tuesday meeting\",\n      \"due\": \"next Tuesday\"\n    }\n  ]\n}\n```",
+      "in_tok": 19266,
+      "out_tok": 413
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document with 22 story treatments to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Prepare and send information about what was happening the same night as the Band A (Band C playing downtown, photography, poster) to Engineer for the Demo\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App demo for Client to explore on their own\",\n      \"due\": \"later today\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Think about and provide direction on what the University MIS students can work on to support the project\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Run the 57-page document back through LLMVendor to refine tone and authenticity before sharing\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Determine which path to direct the University MIS students (intake platform vs. content organization for Engineer) and discuss with the professor before next Tuesday\",\n      \"due\": \"before next Tuesday\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Create a shared document file and share it with Engineer and Partner\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish the timeline feature, add more content points to the demo, and reconvene for a shorter follow-up meeting\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 19266,
+      "out_tok": 434
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document with 22 story treatments to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Prepare and send information about what was happening the same night as the Band A (Band C playing downtown, photography, poster) to Engineer for the Demo\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App demo for Client and team to explore on their own\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Think about and provide direction on what the University MIS students can work on to support the project\",\n      \"due\": \"before next Tuesday\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish the interactive timeline feature, add more content/points to the App, and reconvene for a shorter follow-up meeting\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Create a shared document file with the 57-page content and share it with Engineer and Partner\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Run the AI-generated 57-page document back through LLMVendor to refine tone and authenticity before sending\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Partner\",\n      \"task\": \"Help Client decide which path to present to the University professor for the MIS students' project (intake platform vs. organizing existing content for AI)\",\n      \"due\": \"before next Tuesday\"\n    }\n  ]\n}\n```",
+      "in_tok": 19266,
+      "out_tok": 449
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document with 22 story treatments to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Prepare and send Engineer information about what was happening the same night as the Band A (Band C playing downtown, photography, poster) for the Demo\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App demo and send it to Client and Partner so they can explore the features on their own\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Think about how to direct Client on what the University MIS students can work on and provide guidance\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish the timeline feature, add more content points to the demo, and reconvene for a shorter meeting to show the updated App\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Run the 57-page document back through LLMVendor to refine tone and authenticity before sharing\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Share a document file with Engineer and Partner via a created document folder\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Decide on path for University MIS students (intake platform vs. content organization) and discuss with the professor before next Tuesday\",\n      \"due\": \"next Tuesday\"\n    }\n  ]\n}\n```",
+      "in_tok": 19266,
+      "out_tok": 440
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document of 22 story treatments to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Prepare and send information about what was happening the same night as the Band A (Band C playing downtown, photography, poster) to Engineer for the Demo\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Create a shared document file and share it with Engineer and Partner\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App so Client can explore the features on their own\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish up the timeline feature, add more content points to the App, and reconvene for a shorter follow-up meeting\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Give thought to how to direct Client on what the University MIS students can work on and provide guidance\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Run the LLMVendor-refined 57-page document back through LLMVendor to adjust tone and pull together a key list of addresses/data\",\n      \"due\": \"before sending to Engineer\"\n    },\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Figure out direction for the University MIS students (decide between the two paths discussed) and provide them guidance by next Tuesday\",\n      \"due\": \"next Tuesday\"\n    }\n  ]\n}\n```",
+      "in_tok": 19266,
+      "out_tok": 445
+    }
+  ],
+  "real_earnings_001": [
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million)\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 81
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (approximately $4.5 million)\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 81
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million) for modeling purposes\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 85
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million) for modeling purposes\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 85
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (approximately $4.5 million)\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 81
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million)\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 81
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million)\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 81
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million)\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 81
+    }
+  ],
+  "real_earnings_002": [
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"NVIDIA (Colette Kress / Jensen Huang)\",\n      \"task\": \"Work to hold gross margins in the mid-seventies for fiscal year 2027 through cost improvements, cycle time optimization, and mix\",\n      \"due\": \"fiscal year 2027\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Work toward a definitive agreement with OpenAI on strategic partnership to help build and deploy at least 10 gigawatts of AI data centers\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Collaborate with Anthropic to optimize Anthropic models for CUDA and deliver best performance, efficiency, and TCO; optimize future NVIDIA architectures for Anthropic workloads\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue engagement with US and China governments and advocate for America's ability to compete and ship competitive data center compute products to China\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Ramp the Rubin platform in calendar year 2026 (silicon received, bring-up underway)\",\n      \"due\": \"2026\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Work with Foxconn, Wistron, Amcor, Spil, and others to grow US manufacturing presence over the next four years\",\n      \"due\": \"next four years\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Execute against $500 billion Blackwell and Rubin revenue target through end of calendar year 2026\",\n      \"due\": \"end of calendar year 2026\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Develop multiple generations of custom data center and PC products with Intel connecting ecosystems using NVLink\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Integrate Fujitsu's CPUs and NVIDIA GPUs via NVLink Fusion as part of strategic collaboration with Fujitsu\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue stock buyback program\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 11872,
+      "out_tok": 603
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Colette Kress\",\n      \"task\": \"Work to hold gross margins in the mid-seventies for fiscal year 2027 through cost improvements, cycle time, and mix\",\n      \"due\": \"fiscal year 2027\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Work toward a definitive agreement with OpenAI for strategic partnership to help build and deploy at least 10 gigawatts of AI data centers\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Collaborate with Anthropic to optimize Anthropic models for CUDA and deliver best performance, efficiency, and TCO, and optimize future NVIDIA architectures for Anthropic workloads\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue to work with Foxconn, Wistron, Amcor, Spill, and others to grow US manufacturing presence over the next four years\",\n      \"due\": \"next four years\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue engagement with US and China governments and advocate for America's ability to compete regarding China export restrictions\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Ramp the Rubin platform in calendar year 2026\",\n      \"due\": \"calendar year 2026\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue stock buybacks\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 11872,
+      "out_tok": 416
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"NVIDIA (Colette Kress / Jensen Huang)\",\n      \"task\": \"Work to hold gross margins in the mid-seventies for fiscal year 2027 through cost improvements, cycle time, and mix\",\n      \"due\": \"fiscal year 2027\"\n    },\n    {\n      \"owner\": \"NVIDIA (Jensen Huang)\",\n      \"task\": \"Work toward a definitive agreement with OpenAI for strategic partnership to help build and deploy at least 10 gigawatts of AI data centers\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Collaborate with Anthropic to optimize Anthropic models for CUDA and deliver best performance, efficiency, and TCO; also optimize future NVIDIA architectures for Anthropic workloads\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue to work with Foxconn, Wistron, Amcor, Spil, and others to grow US manufacturing presence over the next four years\",\n      \"due\": \"next four years\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue engagement with US and China governments and advocate for America's ability to compete with data center compute products in China\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue stock buyback program\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Ramp the Rubin platform in calendar year 2026\",\n      \"due\": \"calendar year 2026\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Deliver on $500 billion Blackwell and Rubin revenue target through end of calendar year 2026\",\n      \"due\": \"end of calendar year 2026\"\n    }\n  ]\n}\n```",
+      "in_tok": 11872,
+      "out_tok": 491
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"NVIDIA (Colette Kress / Jensen Huang)\",\n      \"task\": \"Work to hold gross margins in the mid-seventies for fiscal year 2027 through cost improvements, cycle time, and mix\",\n      \"due\": \"fiscal year 2027\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue engagement with US and China governments and advocate for America's ability to compete regarding China export restrictions\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Work toward a definitive agreement with OpenAI for strategic partnership to help build and deploy at least 10 gigawatts of AI data centers\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Collaborate with Anthropic to optimize Anthropic models for CUDA and deliver best performance, efficiency, and TCO (first time Anthropic on NVIDIA architecture)\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Optimize future NVIDIA architectures for Anthropic workloads as part of deep technology partnership\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue to work with Foxconn, Wistron, Amkor, SPIL, and others to grow US manufacturing presence over the next four years\",\n      \"due\": \"next four years\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Ramp Rubin platform in calendar year 2026 (silicon received, bring-up underway)\",\n      \"due\": \"calendar year 2026\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Execute against $500 billion Blackwell and Rubin revenue target through end of calendar year 2026\",\n      \"due\": \"end of calendar year 2026\"\n    },\n    {\n      \"owner\": \"Toshiya Hari\",\n      \"task\": \"Attend UBS Global and AI Conference on December 2\",\n      \"due\": \"2025-12-02\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Hold Q4 FY2026 earnings call to discuss results\",\n      \"due\": \"2026-02-25\"\n    }\n  ]\n}\n```",
+      "in_tok": 11872,
+      "out_tok": 602
+    },
+    {
+      "text": "```json\n{\"action_items\": []}\n```",
+      "in_tok": 11872,
+      "out_tok": 15
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Colette Kress\",\n      \"task\": \"Work to hold gross margins in the mid-seventies for fiscal year 2027 through cost improvements, cycle time optimization, and mix management\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"Jensen Huang\",\n      \"task\": \"Work toward a definitive agreement with OpenAI for strategic partnership to help them build and deploy at least 10 gigawatts of AI data centers, including potential investment in the company\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Jensen Huang\",\n      \"task\": \"Continue engagement with US and China governments to advocate for America's ability to compete and ship competitive data center compute products to China\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Collaborate with Anthropic to optimize Anthropic models for CUDA and deliver best performance, efficiency, and TCO, and optimize future NVIDIA architectures for Anthropic workloads\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Work with Foxconn, Wistron, Amcor, Spill, and others to grow US manufacturing presence over the next four years\",\n      \"due\": \"next four years\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue stock buyback program\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 11872,
+      "out_tok": 380
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Colette Kress\",\n      \"task\": \"Work to hold gross margins in the mid-seventies for fiscal year 2027 through cost improvements, cycle time, and mix\",\n      \"due\": \"fiscal year 2027\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Work toward a definitive agreement with OpenAI for strategic partnership to help build and deploy at least 10 gigawatts of AI data centers\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Collaborate with Anthropic to optimize Anthropic models for CUDA and deliver best performance, efficiency, and TCO, and optimize future NVIDIA architectures for Anthropic workloads\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue engagement with US and China governments and advocate for America's ability to compete regarding export of data center compute products to China\",\n      \"due\": \"ongoing\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue working with Foxconn, Wistron, Amkor, SPIL, and others to grow US manufacturing presence over the next four years\",\n      \"due\": \"next four years\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Execute Rubin platform ramp in calendar year 2026\",\n      \"due\": \"2026\"\n    },\n    {\n      \"owner\": \"NVIDIA\",\n      \"task\": \"Continue stock buybacks\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 11872,
+      "out_tok": 415
+    },
+    {
+      "text": "```json\n{\"action_items\": []}\n```",
+      "in_tok": 11872,
+      "out_tok": 15
+    }
+  ],
+  "real_earnings_003": [
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove the 'cash returns to investors' line item (dividends and stock buyback combined metric) from reporting materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"JPMorgan (Jamie Dimon / Jeremy Barnum)\",\n      \"task\": \"Submit focused comment letter on Basel III endgame and G-SIB reproposals, specifically addressing G-SIB surcharge calibration and short-term wholesale funding methodology concerns\",\n      \"due\": \"during comment period\"\n    }\n  ]\n}\n```",
+      "in_tok": 15437,
+      "out_tok": 169
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove the 'cash returns to investors' metric (dividends and stock buyback combined) from reporting materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"JPMorgan (Jamie Dimon/Jeremy Barnum)\",\n      \"task\": \"Submit focused comments on the Basel III endgame and G-SIB reproposals during the comment process, particularly on G-SIB surcharge calibration and short-term wholesale funding methodology\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 15437,
+      "out_tok": 168
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove the 'cash returns to investors' line item (dividends and stock buyback combined metric) from reporting materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"JPMorgan (Jamie Dimon/Jeremy Barnum)\",\n      \"task\": \"Submit focused comments on the Basel III endgame and G-SIB reproposals during the comment process, particularly on G-SIB surcharge calibration and short-term wholesale funding methodology\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 15437,
+      "out_tok": 170
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove the 'cash returns to investors' line item (dividends and stock buyback combined metric) from reporting materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"JPMorgan (Jamie Dimon / Jeremy Barnum)\",\n      \"task\": \"Submit focused comments on the Basel III endgame and G-SIB reproposals during the comment process, particularly on G-SIB surcharge calibration and short-term wholesale funding methodology\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 15437,
+      "out_tok": 170
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove the 'cash returns to investors' line item (dividends and stock buyback combined metric) from reporting materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"JPMorgan (Jamie Dimon / Jeremy Barnum)\",\n      \"task\": \"Submit focused comment letter on Basel III endgame and G-SIB reproposals, particularly on G-SIB surcharge calibration and short-term wholesale funding methodology\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 15437,
+      "out_tok": 166
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove the 'cash returns to investors' line item (dividends and stock buyback combined metric) from reporting materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"JPMorgan (Jamie Dimon / Jeremy Barnum)\",\n      \"task\": \"Submit focused comments on the Basel III endgame and G-SIB reproposals during the comment process, particularly on G-SIB surcharge calibration and short-term wholesale funding methodology\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 15437,
+      "out_tok": 170
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove the 'cash returns to investors' line item (dividends and stock buyback combined metric) from reporting materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"JPMorgan\",\n      \"task\": \"Submit focused comments on the Basel III endgame and G-SIB reproposals during the comment process, particularly on G-SIB surcharge calibration and short-term wholesale funding methodology\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 15437,
+      "out_tok": 160
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove the 'cash returns to investors' line item (dividends and stock buyback combined metric) from reporting materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"JPMorgan (Jamie Dimon / Jeremy Barnum)\",\n      \"task\": \"Submit focused comments on the Basel III endgame and G-SIB reproposals during the comment process, particularly on G-SIB surcharge calibration and short-term wholesale funding methodology\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 15437,
+      "out_tok": 170
+    }
+  ]
+}

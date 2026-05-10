@@ -1,0 +1,44 @@
+{
+  "real_earnings_001": [
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (~$4.5 million) for modeling purposes\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 84
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million)\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 81
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rents collected from defaulted tenants during Q1 for modeling purposes\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 77
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million) for modeling purposes\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 85
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million)\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 81
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million) for modeling purposes\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 85
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rent collected from defaulted tenants during Q1 (roughly $4.5 million)\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 81
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Ben Regin\",\n      \"task\": \"Provide Connor Mitchell with detailed breakdown of rents collected from defaulted tenants during the quarter for modeling purposes\",\n      \"due\": \"offline\"\n    }\n  ]\n}\n```",
+      "in_tok": 5666,
+      "out_tok": 76
+    }
+  ]
+}

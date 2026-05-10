@@ -22,6 +22,7 @@ build-backend = "hatchling.build"
 include = [
     "meeting_intent.py",
     "meeting_intent_multiturn.py",
+    "meeting_intent_softcommit.py",
     "pyproject.toml",
     "data/**/*",
     "README.md",
