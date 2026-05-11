@@ -1,5 +1,7 @@
 # meeting-intent-eval
 
+For a one-minute summary of the model failure finding, see [results/ONE_PAGER.md](results/ONE_PAGER.md).
+
 A Prime Intellect verifiers environment that tests whether a model can pull the *real* action items out of a messy meeting transcript.
 
 The headline result: Claude Opus 4.6 hits **pass@1 = 0.887** on 10 hand-authored synthetic transcripts. We then ran the same model on 3 real public earnings call transcripts. Pass@1 dropped to **0.000**. Same model, same rubric, same prompt. See [REPORT.md](REPORT.md) for the full writeup.
