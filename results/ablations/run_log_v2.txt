@@ -1,0 +1,38 @@
+Model: claude-opus-4-6
+Transcripts: ['real_earnings_002', 'real_earnings_003', 'real_client_001']
+Samples per (variant, transcript): 8 at T=1.0
+Concurrency: 4, budget cap: $10.0
+
+=== Variant V2 ===
+[v2 | real_earnings_002] sampling 8...
+  passing=0/8  pass@1=0.000  non_empty=8/8  caught_any=0  meanF1=0.000  spent=$1.79
+[v2 | real_earnings_003] sampling 8...
+  passing=0/8  pass@1=0.000  non_empty=8/8  caught_any=0  meanF1=0.000  spent=$3.75
+[v2 | real_client_001] sampling 8...
+  passing=0/8  pass@1=0.000  non_empty=8/8  caught_any=8  meanF1=0.547  spent=$6.34
+
+=== Variant V3 ===
+[v3 | real_earnings_002] sampling 8...
+  passing=0/8  pass@1=0.000  non_empty=8/8  caught_any=0  meanF1=0.000  spent=$8.10
+[v3 | real_earnings_003] sampling 8...
+  passing=0/8  pass@1=0.000  non_empty=8/8  caught_any=0  meanF1=0.000  spent=$10.07
+BUDGET CAP - skipping remaining
+BUDGET CAP reached after variant v3, stopping.
+
+============================================================
+DONE
+total cost $10.07  elapsed 101.9s
+  v2: real_earnings_002=0/8 real_earnings_003=0/8 real_client_001=0/8
+  v3: real_earnings_002=0/8 real_earnings_003=0/8
+Model: claude-opus-4-6  variant: V4 only
+Samples per transcript: 8 at T=1.0
+
+=== Variant V4 ===
+[v4 | real_earnings_002] sampling 8...
+  passing=8/8  pass@1=1.000  non_empty=8/8  caught_any=8  meanF1=1.000  spent=$0.16
+[v4 | real_earnings_003] sampling 8...
+  passing=0/8  pass@1=0.000  non_empty=8/8  caught_any=8  meanF1=0.333  spent=$0.42
+[v4 | real_client_001] sampling 8...
+  passing=0/8  pass@1=0.000  non_empty=8/8  caught_any=8  meanF1=0.719  spent=$0.69
+
+V4 cost $0.69  elapsed 23.5s

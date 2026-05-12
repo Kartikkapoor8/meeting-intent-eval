@@ -1,0 +1,128 @@
+{
+  "real_earnings_002": [
+    {
+      "text": "```json\n{\"action_items\": [{\"owner\": \"Colette Kress\", \"task\": \"Work to hold gross margins in the mid-seventies next year through cost improvements, cycle time optimization, and mix\", \"due\": \"next year\"}]}\n```",
+      "in_tok": 997,
+      "out_tok": 61
+    },
+    {
+      "text": "```json\n{\"action_items\": [{\"owner\": \"Colette Kress\", \"task\": \"Work to hold gross margins in the mid-seventies next year through cost improvements, cycle time optimization, and mix\", \"due\": \"next year\"}]}\n```",
+      "in_tok": 997,
+      "out_tok": 61
+    },
+    {
+      "text": "```json\n{\"action_items\": [{\"owner\": \"Colette Kress\", \"task\": \"Work to hold gross margins in the mid-seventies next year through cost improvements, cycle time, and mix optimizations\", \"due\": \"next year\"}]}\n```",
+      "in_tok": 997,
+      "out_tok": 62
+    },
+    {
+      "text": "```json\n{\"action_items\": [{\"owner\": \"Colette Kress\", \"task\": \"Work to hold gross margins in the mid-seventies next year through cost improvements, cycle time, and mix optimizations\", \"due\": \"next year\"}]}\n```",
+      "in_tok": 997,
+      "out_tok": 62
+    },
+    {
+      "text": "```json\n{\"action_items\": [{\"owner\": \"Colette Kress\", \"task\": \"Work to hold gross margins in the mid-seventies through cost improvements, cycle time optimization, and mix management\", \"due\": \"next year\"}]}\n```",
+      "in_tok": 997,
+      "out_tok": 60
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Colette Kress\",\n      \"task\": \"Work to hold gross margins in the mid-seventies through cost improvements, cycle time optimization, and mix management\",\n      \"due\": \"next year\"\n    }\n  ]\n}\n```",
+      "in_tok": 997,
+      "out_tok": 79
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Colette Kress\",\n      \"task\": \"Work to hold gross margins in the mid-seventies next year through cost improvements, cycle time optimization, and mix\",\n      \"due\": \"next year\"\n    }\n  ]\n}\n```",
+      "in_tok": 997,
+      "out_tok": 80
+    },
+    {
+      "text": "```json\n{\"action_items\": [{\"owner\": \"Colette Kress\", \"task\": \"Work to hold gross margins in the mid-seventies next year through cost improvements, cycle time optimization, and mix\", \"due\": \"next year\"}]}\n```",
+      "in_tok": 997,
+      "out_tok": 61
+    }
+  ],
+  "real_earnings_003": [
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove 'cash returns to investors' metric from materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Provide more confident update on consumer deposit growth trajectory after tax season clears\",\n      \"due\": \"next quarter\"\n    },\n    {\n      \"owner\": \"James Dimon\",\n      \"task\": \"Direct team to find ways to serve clients while reducing G-SIB surcharge impact in Markets business\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 1272,
+      "out_tok": 174
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove 'cash returns to investors' metric from materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Provide more confident update on consumer deposit growth trajectory after tax season passes\",\n      \"due\": \"next quarter\"\n    },\n    {\n      \"owner\": \"James Dimon\",\n      \"task\": \"Find ways to serve clients properly while reducing the G-SIB charge (arbitrage strategies)\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 1272,
+      "out_tok": 171
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove 'cash returns to investors' metric from materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Provide more confident update on consumer deposit growth trajectory after tax season clears\",\n      \"due\": \"next quarter\"\n    },\n    {\n      \"owner\": \"James Dimon\",\n      \"task\": \"Direct team to find ways to serve clients while reducing G-SIB surcharge impact on the Markets business\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 1272,
+      "out_tok": 175
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove 'cash returns to investors' metric from materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Provide more confident update on consumer deposit growth trajectory after tax season clears\",\n      \"due\": \"next quarter\"\n    },\n    {\n      \"owner\": \"James Dimon\",\n      \"task\": \"Direct team to find ways to serve clients while reducing G-SIB surcharge impact (G-SIB arbitrage)\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 1272,
+      "out_tok": 179
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove 'cash returns to investors' metric from materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Provide more confident update on consumer deposit growth trajectory after tax season clears\",\n      \"due\": \"next quarter\"\n    },\n    {\n      \"owner\": \"James Dimon\",\n      \"task\": \"Direct team to find ways to serve clients while reducing the G-SIB surcharge impact (arbitrage strategies)\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 1272,
+      "out_tok": 176
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove 'cash returns to investors' metric from materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Provide more confident update on consumer deposit growth trajectory after tax season clears\",\n      \"due\": \"next quarter\"\n    },\n    {\n      \"owner\": \"James Dimon\",\n      \"task\": \"Direct team to find ways to serve clients while reducing G-SIB surcharge impact (G-SIB arbitrage efforts)\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 1272,
+      "out_tok": 180
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove 'cash returns to investors' metric from materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Provide more confident update on consumer deposit growth trajectory after tax season passes\",\n      \"due\": \"next quarter\"\n    },\n    {\n      \"owner\": \"James Dimon\",\n      \"task\": \"Direct team to find ways to serve clients while reducing G-SIB surcharge impact (arbitrage strategies)\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 1272,
+      "out_tok": 174
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Remove 'cash returns to investors' metric from materials, as requested by Jamie Dimon\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Jeremy Barnum\",\n      \"task\": \"Provide more confident update on consumer deposit growth trajectory after tax season clears\",\n      \"due\": \"next quarter\"\n    },\n    {\n      \"owner\": \"James Dimon\",\n      \"task\": \"Have team find ways to serve clients while reducing G-SIB surcharge impact on Markets business\",\n      \"due\": \"ongoing\"\n    }\n  ]\n}\n```",
+      "in_tok": 1272,
+      "out_tok": 173
+    }
+  ],
+  "real_client_001": [
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy the app link and send it to Client\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Send a follow-up email\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish up the timeline and add more data points to make the app more functional\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Schedule a shorter reconvene meeting (10-20 minutes) after updates are made\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 1114,
+      "out_tok": 231
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy the app link and send it to Client\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Send a follow-up email\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish up the timeline and add more data points to make the app more functional\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Schedule a shorter reconvene meeting (10-20 minutes) after updates are made\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 1114,
+      "out_tok": 231
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy the app link and send it to Client\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Send a follow-up email summarizing next steps\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish up the timeline and add more data points to make the app more functional\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Schedule a short reconvene meeting (10-20 minutes) after updates are made\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 1114,
+      "out_tok": 235
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App and send it to Client\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Send a follow-up email\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish up the timeline and add more data points to make the app more functional\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Schedule a shorter reconvene meeting (10-20 minutes) after updates are made\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 1114,
+      "out_tok": 233
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy the app link and send it to Client\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Send a follow-up email\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish up the timeline and add more data points to make the app more functional\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Schedule a shorter reconvene meeting (10-20 minutes) with Client\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 1114,
+      "out_tok": 229
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy app link and send it to Client\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Send a follow-up email\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish up the timeline, add more data points, and make the app more functional\",\n      \"due\": \"before next meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Schedule a shorter reconvene meeting (10-20 minutes) with Client\",\n      \"due\": \"after updates are complete\"\n    }\n  ]\n}\n```",
+      "in_tok": 1114,
+      "out_tok": 234
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy the app link and send it to Client\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Send a follow-up email\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish up the timeline and add more data points to make the app more functional\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Schedule a shorter reconvene meeting (10-20 minutes) after updates are made\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 1114,
+      "out_tok": 229
+    },
+    {
+      "text": "```json\n{\n  \"action_items\": [\n    {\n      \"owner\": \"Client\",\n      \"task\": \"Send the 57-page document to Engineer and Partner\",\n      \"due\": \"tomorrow morning\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Deploy a link to the App and send it to Client\",\n      \"due\": \"later tonight\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Send a follow-up email\",\n      \"due\": \"after the meeting\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Finish up the timeline and add more data points to make the app more functional\",\n      \"due\": \"open\"\n    },\n    {\n      \"owner\": \"Engineer\",\n      \"task\": \"Schedule a shorter reconvene meeting (10-20 minutes) after updates are made\",\n      \"due\": \"open\"\n    }\n  ]\n}\n```",
+      "in_tok": 1114,
+      "out_tok": 233
+    }
+  ]
+}

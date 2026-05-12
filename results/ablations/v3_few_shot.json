@@ -1,0 +1,61 @@
+{
+  "model": "claude-opus-4-6",
+  "variant": "v3",
+  "n_samples_per_transcript": 8,
+  "temperature": 1.0,
+  "pass_threshold": 0.99,
+  "transcripts": [
+    "real_earnings_002",
+    "real_earnings_003"
+  ],
+  "elapsed_sec_cumulative": 101.9,
+  "cost_usd_cumulative": 10.0743,
+  "per_transcript": [
+    {
+      "transcript_id": "real_earnings_002",
+      "n_attempted": 8,
+      "n_successful": 8,
+      "n_errored": 0,
+      "n_passing": 0,
+      "n_non_empty": 8,
+      "n_caught_any_gt": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": 0.0,
+      "mean_f1": 0.0,
+      "format_compliance": 1.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "transcript_id": "real_earnings_003",
+      "n_attempted": 8,
+      "n_successful": 8,
+      "n_errored": 0,
+      "n_passing": 0,
+      "n_non_empty": 8,
+      "n_caught_any_gt": 0,
+      "pass_at_1": 0.0,
+      "pass_at_8": 0.0,
+      "mean_f1": 0.0,
+      "format_compliance": 1.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}
