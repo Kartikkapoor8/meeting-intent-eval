@@ -1,0 +1,366 @@
+{
+  "per_image": [
+    {
+      "image": "white_1.png",
+      "type": "analog_clock",
+      "gt": "12:25",
+      "unit": "time",
+      "n_correct": 0,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": false,
+      "sample_diagnostics": [
+        "X  pred=11:27 vs gt=12:25 | {\"reading\": \"11:27\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:27 vs gt=12:25 | {\"reading\": \"11:27\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:27 vs gt=12:25 | {\"reading\": \"11:27\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:27 vs gt=12:25 | {\"reading\": \"11:27\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:27 vs gt=12:25 | {\"reading\": \"11:27\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:27 vs gt=12:25 | {\"reading\": \"11:27\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=11:27 vs gt=12:25 | {\"reading\": \"11:27\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:27 vs gt=12:25 | {\"reading\": \"11:27\", \"unit\": \"time\", \"confidence\": \"high\"}"
+      ]
+    },
+    {
+      "image": "white_2.png",
+      "type": "analog_clock",
+      "gt": "04:06",
+      "unit": "time",
+      "n_correct": 0,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": false,
+      "sample_diagnostics": [
+        "X  pred=07:07 vs gt=04:06 | {\"reading\": \"07:07\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:07 vs gt=04:06 | {\"reading\": \"07:07\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:07 vs gt=04:06 | {\"reading\": \"07:07\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:07 vs gt=04:06 | {\"reading\": \"07:07\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:07 vs gt=04:06 | {\"reading\": \"07:07\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:07 vs gt=04:06 | {\"reading\": \"07:07\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:07 vs gt=04:06 | {\"reading\": \"07:07\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:07 vs gt=04:06 | {\"reading\": \"07:07\", \"unit\": \"time\", \"confidence\": \"medium\"}"
+      ]
+    },
+    {
+      "image": "white_3.png",
+      "type": "analog_clock",
+      "gt": "08:10",
+      "unit": "time",
+      "n_correct": 0,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": false,
+      "sample_diagnostics": [
+        "X  pred=07:51 vs gt=08:10 | {\"reading\": \"07:51\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:38 vs gt=08:10 | {\"reading\": \"07:38\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:52 vs gt=08:10 | {\"reading\": \"07:52\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:52 vs gt=08:10 | {\"reading\": \"07:52\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:51 vs gt=08:10 | {\"reading\": \"07:51\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:51 vs gt=08:10 | {\"reading\": \"07:51\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:38 vs gt=08:10 | {\"reading\": \"07:38\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:38 vs gt=08:10 | {\"reading\": \"07:38\", \"unit\": \"time\", \"confidence\": \"medium\"}"
+      ]
+    },
+    {
+      "image": "white_4.png",
+      "type": "analog_clock",
+      "gt": "06:02",
+      "unit": "time",
+      "n_correct": 0,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": false,
+      "sample_diagnostics": [
+        "X  pred=11:30 vs gt=06:02 | {\"reading\": \"11:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:30 vs gt=06:02 | {\"reading\": \"11:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:30 vs gt=06:02 | {\"reading\": \"11:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:30 vs gt=06:02 | {\"reading\": \"11:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:30 vs gt=06:02 | {\"reading\": \"11:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:30 vs gt=06:02 | {\"reading\": \"11:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:30 vs gt=06:02 | {\"reading\": \"11:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=11:30 vs gt=06:02 | {\"reading\": \"11:30\", \"unit\": \"time\", \"confidence\": \"high\"}"
+      ]
+    },
+    {
+      "image": "white_circular_numbers_1.png",
+      "type": "analog_clock",
+      "gt": "01:04",
+      "unit": "time",
+      "n_correct": 0,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": false,
+      "sample_diagnostics": [
+        "X  pred=12:33 vs gt=01:04 | {\"reading\": \"12:33\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=01:27 vs gt=01:04 | {\"reading\": \"01:27\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=12:33 vs gt=01:04 | {\"reading\": \"12:33\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=12:33 vs gt=01:04 | {\"reading\": \"12:33\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=12:33 vs gt=01:04 | {\"reading\": \"12:33\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=12:33 vs gt=01:04 | {\"reading\": \"12:33\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=12:33 vs gt=01:04 | {\"reading\": \"12:33\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=12:34 vs gt=01:04 | {\"reading\": \"12:34\", \"unit\": \"time\", \"confidence\": \"medium\"}"
+      ]
+    },
+    {
+      "image": "white_circular_numbers_2.png",
+      "type": "analog_clock",
+      "gt": "05:21",
+      "unit": "time",
+      "n_correct": 0,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": false,
+      "sample_diagnostics": [
+        "X  pred=07:22 vs gt=05:21 | {\"reading\": \"07:22\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:22 vs gt=05:21 | {\"reading\": \"07:22\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:22 vs gt=05:21 | {\"reading\": \"07:22\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:22 vs gt=05:21 | {\"reading\": \"07:22\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:22 vs gt=05:21 | {\"reading\": \"07:22\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:22 vs gt=05:21 | {\"reading\": \"07:22\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:22 vs gt=05:21 | {\"reading\": \"07:22\", \"unit\": \"time\", \"confidence\": \"medium\"}",
+        "X  pred=07:22 vs gt=05:21 | {\"reading\": \"07:22\", \"unit\": \"time\", \"confidence\": \"medium\"}"
+      ]
+    },
+    {
+      "image": "white_circular_numbers_3.png",
+      "type": "analog_clock",
+      "gt": "07:31",
+      "unit": "time",
+      "n_correct": 0,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": false,
+      "sample_diagnostics": [
+        "X  pred=07:37 vs gt=07:31 | {\"reading\": \"07:37\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=07:37 vs gt=07:31 | {\"reading\": \"07:37\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=07:37 vs gt=07:31 | {\"reading\": \"07:37\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=07:37 vs gt=07:31 | {\"reading\": \"07:37\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=07:37 vs gt=07:31 | {\"reading\": \"07:37\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=07:37 vs gt=07:31 | {\"reading\": \"07:37\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=07:37 vs gt=07:31 | {\"reading\": \"07:37\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=07:37 vs gt=07:31 | {\"reading\": \"07:37\", \"unit\": \"time\", \"confidence\": \"high\"}"
+      ]
+    },
+    {
+      "image": "white_circular_numbers_4.png",
+      "type": "analog_clock",
+      "gt": "08:45",
+      "unit": "time",
+      "n_correct": 0,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": false,
+      "sample_diagnostics": [
+        "X  pred=03:30 vs gt=08:45 | {\"reading\": \"03:30\", \"unit\": \"hours:minutes\", \"confidence\": \"high\"}",
+        "X  pred=03:30 vs gt=08:45 | {\"reading\": \"03:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=03:30 vs gt=08:45 | {\"reading\": \"03:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=03:30 vs gt=08:45 | {\"reading\": \"03:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=03:30 vs gt=08:45 | {\"reading\": \"03:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=03:30 vs gt=08:45 | {\"reading\": \"03:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=03:30 vs gt=08:45 | {\"reading\": \"03:30\", \"unit\": \"time\", \"confidence\": \"high\"}",
+        "X  pred=03:30 vs gt=08:45 | {\"reading\": \"03:30\", \"unit\": \"time\", \"confidence\": \"high\"}"
+      ]
+    },
+    {
+      "image": "bathroom_scale_01.jpg",
+      "type": "bathroom_scale",
+      "gt": 85.0,
+      "unit": "kg",
+      "n_correct": 8,
+      "n_total": 8,
+      "pass1": true,
+      "pass8": true,
+      "sample_diagnostics": [
+        "OK diff=5.00 tol=6.50 | {\"reading\": 90, \"unit\": \"kg\", \"confidence\": \"medium\"}",
+        "OK diff=5.00 tol=6.50 | {\"reading\": 90, \"unit\": \"kg\", \"confidence\": \"medium\"}",
+        "OK diff=5.00 tol=6.50 | {\"reading\": 90, \"unit\": \"kg\", \"confidence\": \"medium\"}",
+        "OK diff=5.00 tol=6.50 | {\"reading\": 90, \"unit\": \"kg\", \"confidence\": \"medium\"}",
+        "OK diff=5.00 tol=6.50 | {\"reading\": 90, \"unit\": \"kg\", \"confidence\": \"medium\"}",
+        "OK diff=5.00 tol=6.50 | {\"reading\": 90, \"unit\": \"kg\", \"confidence\": \"medium\"}",
+        "OK diff=5.00 tol=6.50 | {\"reading\": 90, \"unit\": \"kg\", \"confidence\": \"medium\"}",
+        "OK diff=5.00 tol=6.50 | {\"reading\": 90, \"unit\": \"kg\", \"confidence\": \"medium\"}"
+      ]
+    },
+    {
+      "image": "tachometer_01.jpg",
+      "type": "tachometer",
+      "gt": 2200.0,
+      "unit": "rpm",
+      "n_correct": 6,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": true,
+      "sample_diagnostics": [
+        "X  diff=1200.00>700.00 | {\"reading\": 1000, \"unit\": \"RPM\", \"confidence\": \"high\"}",
+        "OK diff=700.00 tol=700.00 | {\"reading\": 1500, \"unit\": \"RPM\", \"confidence\": \"high\"}",
+        "OK diff=700.00 tol=700.00 | {\"reading\": 1500, \"unit\": \"RPM\", \"confidence\": \"high\"}",
+        "OK diff=700.00 tol=700.00 | {\"reading\": 1500, \"unit\": \"RPM\", \"confidence\": \"medium\"}",
+        "OK diff=700.00 tol=700.00 | {\"reading\": 1500, \"unit\": \"RPM\", \"confidence\": \"high\"}",
+        "OK diff=700.00 tol=700.00 | {\"reading\": 1500, \"unit\": \"RPM\", \"confidence\": \"high\"}",
+        "OK diff=700.00 tol=700.00 | {\"reading\": 1500, \"unit\": \"RPM\", \"confidence\": \"medium\"}",
+        "X  diff=1200.00>700.00 | {\"reading\": 1000, \"unit\": \"RPM\", \"confidence\": \"high\"}"
+      ]
+    },
+    {
+      "image": "speedometer_01.jpg",
+      "type": "speedometer",
+      "gt": 0.0,
+      "unit": "mph",
+      "n_correct": 8,
+      "n_total": 8,
+      "pass1": true,
+      "pass8": true,
+      "sample_diagnostics": [
+        "OK diff=0.00 tol=6.00 | {\"reading\": 0, \"unit\": \"MPH\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=6.00 | {\"reading\": 0, \"unit\": \"MPH\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=6.00 | {\"reading\": 0, \"unit\": \"MPH\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=6.00 | {\"reading\": 0, \"unit\": \"MPH\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=6.00 | {\"reading\": 0, \"unit\": \"MPH\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=6.00 | {\"reading\": 0, \"unit\": \"MPH\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=6.00 | {\"reading\": 0, \"unit\": \"MPH\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=6.00 | {\"reading\": 0, \"unit\": \"MPH\", \"confidence\": \"high\"}"
+      ]
+    },
+    {
+      "image": "sphygmomanometer_01.jpg",
+      "type": "sphygmomanometer",
+      "gt": 0.0,
+      "unit": "mmHg",
+      "n_correct": 8,
+      "n_total": 8,
+      "pass1": true,
+      "pass8": true,
+      "sample_diagnostics": [
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}"
+      ]
+    },
+    {
+      "image": "sphygmomanometer_02.jpg",
+      "type": "sphygmomanometer",
+      "gt": 0.0,
+      "unit": "mmHg",
+      "n_correct": 8,
+      "n_total": 8,
+      "pass1": true,
+      "pass8": true,
+      "sample_diagnostics": [
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}",
+        "OK diff=0.00 tol=15.00 | {\"reading\": 0, \"unit\": \"mmHg\", \"confidence\": \"high\"}"
+      ]
+    },
+    {
+      "image": "postal_scale_01.jpg",
+      "type": "postal_scale",
+      "gt": 0.0,
+      "unit": "oz",
+      "n_correct": 0,
+      "n_total": 8,
+      "pass1": false,
+      "pass8": false,
+      "sample_diagnostics": [
+        "X  unit_mismatch:lb!=oz | {\"reading\": 0, \"unit\": \"lb\", \"confidence\": \"high\"}",
+        "X  unit_mismatch:lb!=oz | {\"reading\": 0, \"unit\": \"lb\", \"confidence\": \"high\"}",
+        "X  unit_mismatch:lb!=oz | {\"reading\": 0, \"unit\": \"lb\", \"confidence\": \"high\"}",
+        "X  unit_mismatch:lb!=oz | {\"reading\": 0, \"unit\": \"lb\", \"confidence\": \"high\"}",
+        "X  unit_mismatch:lb!=oz | {\"reading\": 0, \"unit\": \"lb\", \"confidence\": \"high\"}",
+        "X  unit_mismatch:lb!=oz | {\"reading\": 0, \"unit\": \"lb\", \"confidence\": \"high\"}",
+        "X  unit_mismatch:lb!=oz | {\"reading\": 0, \"unit\": \"lb\", \"confidence\": \"high\"}",
+        "X  unit_mismatch:lb!=oz | {\"reading\": 0, \"unit\": \"lb\", \"confidence\": \"high\"}"
+      ]
+    }
+  ],
+  "per_type": {
+    "analog_clock": {
+      "n": 8,
+      "pass1": 0,
+      "pass8": 0,
+      "samples_correct": 0,
+      "samples_total": 64,
+      "pass1_pct": 0.0,
+      "pass8_pct": 0.0,
+      "samples_pct": 0.0
+    },
+    "bathroom_scale": {
+      "n": 1,
+      "pass1": 1,
+      "pass8": 1,
+      "samples_correct": 8,
+      "samples_total": 8,
+      "pass1_pct": 100.0,
+      "pass8_pct": 100.0,
+      "samples_pct": 100.0
+    },
+    "tachometer": {
+      "n": 1,
+      "pass1": 0,
+      "pass8": 1,
+      "samples_correct": 6,
+      "samples_total": 8,
+      "pass1_pct": 0.0,
+      "pass8_pct": 100.0,
+      "samples_pct": 75.0
+    },
+    "speedometer": {
+      "n": 1,
+      "pass1": 1,
+      "pass8": 1,
+      "samples_correct": 8,
+      "samples_total": 8,
+      "pass1_pct": 100.0,
+      "pass8_pct": 100.0,
+      "samples_pct": 100.0
+    },
+    "sphygmomanometer": {
+      "n": 2,
+      "pass1": 2,
+      "pass8": 2,
+      "samples_correct": 16,
+      "samples_total": 16,
+      "pass1_pct": 100.0,
+      "pass8_pct": 100.0,
+      "samples_pct": 100.0
+    },
+    "postal_scale": {
+      "n": 1,
+      "pass1": 0,
+      "pass8": 0,
+      "samples_correct": 0,
+      "samples_total": 8,
+      "pass1_pct": 0.0,
+      "pass8_pct": 0.0,
+      "samples_pct": 0.0
+    }
+  },
+  "overall": {
+    "n_images": 14,
+    "pass1": 4,
+    "pass1_pct": 28.6,
+    "pass8": 5,
+    "pass8_pct": 35.7,
+    "samples_correct": 38,
+    "samples_total": 112,
+    "samples_pct": 33.9
+  },
+  "confidence": {
+    "correct": {
+      "medium": 10,
+      "high": 28
+    },
+    "wrong": {
+      "high": 42,
+      "medium": 32
+    }
+  }
+}

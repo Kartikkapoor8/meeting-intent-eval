@@ -1,0 +1,129 @@
+[
+  {
+    "image": "white_1.png",
+    "instrument_type": "analog_clock",
+    "ground_truth_reading": "12:25",
+    "scale_max": null,
+    "unit": "time",
+    "source": "ClockBench public sample (https://github.com/aleksafar/clockbench)",
+    "verification_method": "official clockbench answer json: hours=12, minutes=25"
+  },
+  {
+    "image": "white_2.png",
+    "instrument_type": "analog_clock",
+    "ground_truth_reading": "04:06",
+    "scale_max": null,
+    "unit": "time",
+    "source": "ClockBench public sample",
+    "verification_method": "clockbench: hours=4, minutes=6"
+  },
+  {
+    "image": "white_3.png",
+    "instrument_type": "analog_clock",
+    "ground_truth_reading": "08:10",
+    "scale_max": null,
+    "unit": "time",
+    "source": "ClockBench public sample",
+    "verification_method": "clockbench: hours=8, minutes=10"
+  },
+  {
+    "image": "white_4.png",
+    "instrument_type": "analog_clock",
+    "ground_truth_reading": "06:02",
+    "scale_max": null,
+    "unit": "time",
+    "source": "ClockBench public sample",
+    "verification_method": "clockbench: hours=6, minutes=2"
+  },
+  {
+    "image": "white_circular_numbers_1.png",
+    "instrument_type": "analog_clock",
+    "ground_truth_reading": "01:04",
+    "ground_truth_alt": ["01:05"],
+    "scale_max": null,
+    "unit": "time",
+    "source": "ClockBench public sample",
+    "verification_method": "clockbench: hours=1, minutes range [4,5]"
+  },
+  {
+    "image": "white_circular_numbers_2.png",
+    "instrument_type": "analog_clock",
+    "ground_truth_reading": "05:21",
+    "scale_max": null,
+    "unit": "time",
+    "source": "ClockBench public sample",
+    "verification_method": "clockbench: hours=5, minutes=21"
+  },
+  {
+    "image": "white_circular_numbers_3.png",
+    "instrument_type": "analog_clock",
+    "ground_truth_reading": "07:31",
+    "scale_max": null,
+    "unit": "time",
+    "source": "ClockBench public sample",
+    "verification_method": "clockbench: hours=7, minutes=31"
+  },
+  {
+    "image": "white_circular_numbers_4.png",
+    "instrument_type": "analog_clock",
+    "ground_truth_reading": "08:45",
+    "scale_max": null,
+    "unit": "time",
+    "source": "ClockBench public sample",
+    "verification_method": "clockbench: hours=8, minutes=45"
+  },
+  {
+    "image": "bathroom_scale_01.jpg",
+    "instrument_type": "bathroom_scale",
+    "ground_truth_reading": 85.0,
+    "scale_max": 130.0,
+    "unit": "kg",
+    "source": "Wikimedia Commons File:Personenwaage (fcm).jpg",
+    "verification_method": "scale window shows numbers 80, 90, 100; needle positioned between 80 and 90, around 85. Tolerance 5% of 130 = +-6.5 covers 78.5 to 91.5 kg."
+  },
+  {
+    "image": "tachometer_01.jpg",
+    "instrument_type": "tachometer",
+    "ground_truth_reading": 2200.0,
+    "scale_max": 14000.0,
+    "unit": "rpm",
+    "source": "Wikimedia Commons File:Hezery99-SYM SR125i digital meter.jpg",
+    "verification_method": "scale labeled 'x1000 r/min' goes 0,2,4,6,8,10,12,14; needle is just past 2, around 2.2 (so ~2200 rpm). 5% band = +-700 rpm."
+  },
+  {
+    "image": "speedometer_01.jpg",
+    "instrument_type": "speedometer",
+    "ground_truth_reading": 0.0,
+    "scale_max": 120.0,
+    "unit": "mph",
+    "source": "Wikimedia Commons File:Jeep Odometer.jpg",
+    "verification_method": "vehicle parked; needle clearly at 0 on a 0-120 mph scale."
+  },
+  {
+    "image": "sphygmomanometer_01.jpg",
+    "instrument_type": "sphygmomanometer",
+    "ground_truth_reading": 0.0,
+    "scale_max": 300.0,
+    "unit": "mmHg",
+    "source": "Wikimedia Commons File:Aneroid sphygmomanometer with an adult cuff 01.jpg",
+    "verification_method": "cuff not pressurized; needle at 0 on 0-300 mmHg scale."
+  },
+  {
+    "image": "sphygmomanometer_02.jpg",
+    "instrument_type": "sphygmomanometer",
+    "ground_truth_reading": 0.0,
+    "scale_max": 300.0,
+    "unit": "mmHg",
+    "source": "Wikimedia Commons File:Erka sphygmomanometer.jpg",
+    "verification_method": "cuff not pressurized; needle at 0 on 0-300 mmHg scale."
+  },
+  {
+    "image": "postal_scale_01.jpg",
+    "instrument_type": "postal_scale",
+    "ground_truth_reading": 0.0,
+    "scale_max": 32.0,
+    "unit": "oz",
+    "source": "Wikimedia Commons File:Avery postal scale.JPG",
+    "verification_method": "pan empty; pointer at 0 on inland postal letter rates scale labeled 'to weigh 2 lb' (32 oz max)."
+  }
+]

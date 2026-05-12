@@ -1,0 +1,702 @@
+{
+  "white_1.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    }
+  ],
+  "white_2.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    }
+  ],
+  "white_3.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:51\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:38\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:52\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:52\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:51\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:51\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:38\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:38\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    }
+  ],
+  "white_4.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    }
+  ],
+  "white_circular_numbers_1.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:33\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"01:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:33\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:33\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:33\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:33\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:33\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:34\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    }
+  ],
+  "white_circular_numbers_2.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    }
+  ],
+  "white_circular_numbers_3.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    }
+  ],
+  "white_circular_numbers_4.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": 12,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 59,
+      "cost": 0.026055
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1442,
+      "out_tok": 56,
+      "cost": 0.02583
+    }
+  ],
+  "bathroom_scale_01.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 56,
+      "cost": 0.029849999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 56,
+      "cost": 0.029849999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 56,
+      "cost": 0.029849999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 56,
+      "cost": 0.029849999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 56,
+      "cost": 0.029849999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 56,
+      "cost": 0.029849999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 56,
+      "cost": 0.029849999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 56,
+      "cost": 0.029849999999999998
+    }
+  ],
+  "tachometer_01.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"tachometer\",\n  \"reading\": 1000,\n  \"unit\": \"RPM\",\n  \"scale_max\": 14000,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1342,
+      "out_tok": 60,
+      "cost": 0.024630000000000003
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"tachometer\",\n  \"reading\": 1500,\n  \"unit\": \"RPM\",\n  \"scale_max\": 14000,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1342,
+      "out_tok": 60,
+      "cost": 0.024630000000000003
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"tachometer\",\n  \"reading\": 1500,\n  \"unit\": \"RPM\",\n  \"scale_max\": 14000,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1342,
+      "out_tok": 60,
+      "cost": 0.024630000000000003
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"tachometer\",\n  \"reading\": 1500,\n  \"unit\": \"RPM\",\n  \"scale_max\": 14000,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1342,
+      "out_tok": 60,
+      "cost": 0.024630000000000003
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"tachometer\",\n  \"reading\": 1500,\n  \"unit\": \"RPM\",\n  \"scale_max\": 14000,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1342,
+      "out_tok": 60,
+      "cost": 0.024630000000000003
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"tachometer\",\n  \"reading\": 1500,\n  \"unit\": \"RPM\",\n  \"scale_max\": 14000,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1342,
+      "out_tok": 60,
+      "cost": 0.024630000000000003
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"tachometer\",\n  \"reading\": 1500,\n  \"unit\": \"RPM\",\n  \"scale_max\": 14000,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1342,
+      "out_tok": 60,
+      "cost": 0.024630000000000003
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"tachometer\",\n  \"reading\": 1000,\n  \"unit\": \"RPM\",\n  \"scale_max\": 14000,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1342,
+      "out_tok": 60,
+      "cost": 0.024630000000000003
+    }
+  ],
+  "speedometer_01.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 57,
+      "cost": 0.029925
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 57,
+      "cost": 0.029925
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 57,
+      "cost": 0.029925
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 57,
+      "cost": 0.029925
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 57,
+      "cost": 0.029925
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 57,
+      "cost": 0.029925
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 57,
+      "cost": 0.029925
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1710,
+      "out_tok": 57,
+      "cost": 0.029925
+    }
+  ],
+  "sphygmomanometer_01.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1182,
+      "out_tok": 66,
+      "cost": 0.02268
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1182,
+      "out_tok": 66,
+      "cost": 0.02268
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1182,
+      "out_tok": 66,
+      "cost": 0.02268
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1182,
+      "out_tok": 66,
+      "cost": 0.02268
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1182,
+      "out_tok": 66,
+      "cost": 0.02268
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1182,
+      "out_tok": 66,
+      "cost": 0.02268
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1182,
+      "out_tok": 66,
+      "cost": 0.02268
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1182,
+      "out_tok": 66,
+      "cost": 0.02268
+    }
+  ],
+  "sphygmomanometer_02.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1694,
+      "out_tok": 66,
+      "cost": 0.03036
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1694,
+      "out_tok": 66,
+      "cost": 0.03036
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1694,
+      "out_tok": 66,
+      "cost": 0.03036
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1694,
+      "out_tok": 66,
+      "cost": 0.03036
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1694,
+      "out_tok": 66,
+      "cost": 0.03036
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1694,
+      "out_tok": 66,
+      "cost": 0.03036
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1694,
+      "out_tok": 66,
+      "cost": 0.03036
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"sphygmomanometer (blood pressure gauge)\",\n  \"reading\": 0,\n  \"unit\": \"mmHg\",\n  \"scale_max\": 300,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1694,
+      "out_tok": 66,
+      "cost": 0.03036
+    }
+  ],
+  "postal_scale_01.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1393,
+      "out_tok": 56,
+      "cost": 0.025095
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1393,
+      "out_tok": 56,
+      "cost": 0.025095
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1393,
+      "out_tok": 56,
+      "cost": 0.025095
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1393,
+      "out_tok": 56,
+      "cost": 0.025095
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1393,
+      "out_tok": 56,
+      "cost": 0.025095
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1393,
+      "out_tok": 56,
+      "cost": 0.025095
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1393,
+      "out_tok": 56,
+      "cost": 0.025095
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1393,
+      "out_tok": 56,
+      "cost": 0.025095
+    }
+  ]
+}
