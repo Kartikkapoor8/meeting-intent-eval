@@ -1,0 +1,122 @@
+{
+  "verdict": "A",
+  "n_meetings": 12,
+  "n_per_model": {
+    "opus_4_6": 12,
+    "sonnet_4_6": 12,
+    "haiku_4_5": 12
+  },
+  "models": [
+    "opus_4_6",
+    "sonnet_4_6",
+    "haiku_4_5"
+  ],
+  "unparsed_per_code": {
+    "opus_4_6": {
+      "REP": 1,
+      "INC": 1,
+      "LAN": 2,
+      "T_OM": 0,
+      "P_OM": 0,
+      "STR": 0,
+      "IRR": 0,
+      "COR": 0,
+      "HAL": 0
+    },
+    "sonnet_4_6": {
+      "REP": 2,
+      "INC": 1,
+      "LAN": 2,
+      "T_OM": 0,
+      "P_OM": 0,
+      "STR": 0,
+      "IRR": 0,
+      "COR": 0,
+      "HAL": 0
+    },
+    "haiku_4_5": {
+      "REP": 2,
+      "INC": 1,
+      "LAN": 2,
+      "T_OM": 0,
+      "P_OM": 0,
+      "STR": 0,
+      "IRR": 0,
+      "COR": 0,
+      "HAL": 0
+    }
+  },
+  "nine_type_counts": {
+    "opus_4_6": {
+      "REP": 4,
+      "INC": 1,
+      "LAN": 1,
+      "T_OM": 12,
+      "P_OM": 12,
+      "STR": 2,
+      "IRR": 9,
+      "COR": 0,
+      "HAL": 9
+    },
+    "sonnet_4_6": {
+      "REP": 2,
+      "INC": 0,
+      "LAN": 0,
+      "T_OM": 10,
+      "P_OM": 12,
+      "STR": 0,
+      "IRR": 9,
+      "COR": 0,
+      "HAL": 9
+    },
+    "haiku_4_5": {
+      "REP": 2,
+      "INC": 1,
+      "LAN": 0,
+      "T_OM": 10,
+      "P_OM": 12,
+      "STR": 0,
+      "IRR": 10,
+      "COR": 3,
+      "HAL": 9
+    }
+  },
+  "nine_type_rates": {
+    "opus_4_6": {
+      "REP": 0.36363636363636365,
+      "INC": 0.09090909090909091,
+      "LAN": 0.1,
+      "T_OM": 1.0,
+      "P_OM": 1.0,
+      "STR": 0.16666666666666666,
+      "IRR": 0.75,
+      "COR": 0.0,
+      "HAL": 0.75
+    },
+    "sonnet_4_6": {
+      "REP": 0.2,
+      "INC": 0.0,
+      "LAN": 0.0,
+      "T_OM": 0.8333333333333334,
+      "P_OM": 1.0,
+      "STR": 0.0,
+      "IRR": 0.75,
+      "COR": 0.0,
+      "HAL": 0.75
+    },
+    "haiku_4_5": {
+      "REP": 0.2,
+      "INC": 0.09090909090909091,
+      "LAN": 0.0,
+      "T_OM": 0.8333333333333334,
+      "P_OM": 1.0,
+      "STR": 0.0,
+      "IRR": 0.8333333333333334,
+      "COR": 0.25,
+      "HAL": 0.75
+    }
+  },
+  "summarization_cost_usd": 2.3597,
+  "judge_cost_usd": 5.2959,
+  "total_cost_usd": 7.6556
+}

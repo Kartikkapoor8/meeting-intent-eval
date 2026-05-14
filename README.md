@@ -1,5 +1,11 @@
 # meeting-intent-eval
 
+> **May 14 2026 — direction parked.** Meeting summarization smoke test verified 75% intrinsic hallucination across Opus 4.6, Sonnet 4.6, and Haiku 4.5 on 12 real meeting transcripts. Failure mode documented in Kirstein et al. 2024-2025 has not closed at frontier scale. Pivoted to growth role at Deep24 — env build not pursued.
+>
+> Full smoke test results: [results/meeting_smoke_test/SMOKE_VERDICT.md](results/meeting_smoke_test/SMOKE_VERDICT.md)
+
+---
+
 A Prime Intellect verifiers environment that tests whether a model can pull the *real* action items out of a messy meeting transcript.
 
 The headline result: Claude Opus 4.6 hits **pass@1 = 0.887** on 10 hand-authored synthetic transcripts. We then ran the same model on 3 real public earnings call transcripts. Pass@1 dropped to **0.000**. Same model, same rubric, same prompt. See [REPORT.md](REPORT.md) for the full writeup.
